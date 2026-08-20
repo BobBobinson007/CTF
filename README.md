@@ -1,8 +1,17 @@
 # CTF Room: "Der Wegweiser von Northwind"
 
-**Kategorie:** Digital Forensics / OSINT
-**Schwierigkeit:** Einsteiger
-**Geschätzte Dauer:** 20–30 Minuten
+---
+
+<div>
+  <img src="Assets/1.png" alt="Der Wegweiser von Northwind" width="188" align="left" style="border-radius: 12px; margin-right: 24px;">
+
+  ![Category](https://img.shields.io/badge/Category-Digital%20Forensics-000000?style=flat-square&labelColor=92040f)
+  
+  ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-000000?style=flat-square&labelColor=92040f)
+  
+  ![Duration](https://img.shields.io/badge/Duration-20--30%20min-000000?style=flat-square&labelColor=92040f)
+
+</div>
 
 ---
 
