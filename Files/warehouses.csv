@@ -1,0 +1,5 @@
+warehouse_id,name,city,state,address
+WH-HKY,Hickory Distribution Center,Hickory,NC,"4200 Industrial Pkwy, Hickory, NC 28601"
+WH-AVL,Asheville Fulfillment Center,Asheville,NC,"1850 Riverside Dr, Asheville, NC 28801"
+WH-CLT,Charlotte Regional Warehouse,Charlotte,NC,"9300 Logistics Blvd, Charlotte, NC 28273"
+WH-GVL,Greenville Supply Hub,Greenville,SC,"3100 Commerce Rd, Greenville, SC 29605"

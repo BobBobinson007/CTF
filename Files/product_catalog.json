@@ -1,0 +1,4384 @@
+[
+  {
+    "product_id": "P00001",
+    "sku": "CLI-Z49C9R",
+    "product_name": "Pine Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0012",
+    "retail_price": 448.19,
+    "weight_lb": 18.08,
+    "tags": [
+      "safety-certified",
+      "sport",
+      "beginner"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00002",
+    "sku": "TEN-PFHR3C",
+    "product_name": "River Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0017",
+    "retail_price": 89.89,
+    "weight_lb": 2.75,
+    "tags": [
+      "ultralight",
+      "waterproof",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00003",
+    "sku": "TRA-NIRK1A",
+    "product_name": "Summit Trail Safety First Aid Kit",
+    "category": "Trail Safety",
+    "vendor_id": "V0005",
+    "retail_price": 232.09,
+    "weight_lb": 11.22,
+    "tags": [
+      "backcountry",
+      "all-season",
+      "lightweight"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00004",
+    "sku": "TRA-W4W1QE",
+    "product_name": "Canyon Trail Safety Personal Locator",
+    "category": "Trail Safety",
+    "vendor_id": "V0010",
+    "retail_price": 76.59,
+    "weight_lb": 7.7,
+    "tags": [
+      "guided",
+      "all-season",
+      "lightweight"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00005",
+    "sku": "OUT-EX3OVC",
+    "product_name": "Trail Outerwear Insulated Parka",
+    "category": "Outerwear",
+    "vendor_id": "V0024",
+    "retail_price": 132.26,
+    "weight_lb": 2.71,
+    "tags": [
+      "4-season",
+      "waterproof",
+      "layering"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00006",
+    "sku": "CAM-KKOD49",
+    "product_name": "Canyon Camp Kitchen Single-Burner Propane",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0014",
+    "retail_price": 398.0,
+    "weight_lb": 2.51,
+    "tags": [
+      "quick-boil",
+      "compact",
+      "propane"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00007",
+    "sku": "LIG-YNIMGD",
+    "product_name": "Canyon Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0029",
+    "retail_price": 409.55,
+    "weight_lb": 13.76,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00008",
+    "sku": "BAC-LZLETN",
+    "product_name": "Canyon Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0011",
+    "retail_price": 275.55,
+    "weight_lb": 9.47,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00009",
+    "sku": "TRA-21P3I5",
+    "product_name": "Trail Trail Safety Signal Mirror & Whistle",
+    "category": "Trail Safety",
+    "vendor_id": "V0030",
+    "retail_price": 79.4,
+    "weight_lb": 13.12,
+    "tags": [
+      "day-hike",
+      "lightweight",
+      "emergency"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00010",
+    "sku": "HYD-S3H4LZ",
+    "product_name": "Ridge Hydration Gravity Filter Kit",
+    "category": "Hydration",
+    "vendor_id": "V0020",
+    "retail_price": 59.15,
+    "weight_lb": 11.19,
+    "tags": [
+      "insulated",
+      "filter",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00011",
+    "sku": "HIK-TAIVC0",
+    "product_name": "Summit Hiking Footwear Standard",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0004",
+    "retail_price": 143.74,
+    "weight_lb": 7.01,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00012",
+    "sku": "CLI-ZWPN9M",
+    "product_name": "Trail Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0028",
+    "retail_price": 593.99,
+    "weight_lb": 8.69,
+    "tags": [
+      "trad",
+      "sport",
+      "alpine"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00013",
+    "sku": "TEN-MLOB0W",
+    "product_name": "Summit Tents Freestanding Dome",
+    "category": "Tents",
+    "vendor_id": "V0021",
+    "retail_price": 398.48,
+    "weight_lb": 17.16,
+    "tags": [
+      "waterproof",
+      "4-season",
+      "family"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00014",
+    "sku": "CAM-APUN4Z",
+    "product_name": "Ridge Camp Kitchen Collapsible Cup Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0027",
+    "retail_price": 131.81,
+    "weight_lb": 18.4,
+    "tags": [
+      "car-camping",
+      "quick-boil",
+      "propane"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00015",
+    "sku": "CLI-8MSD1G",
+    "product_name": "Trail Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0027",
+    "retail_price": 389.15,
+    "weight_lb": 17.81,
+    "tags": [
+      "UIAA-rated",
+      "beginner",
+      "safety-certified"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00016",
+    "sku": "CAM-Z58682",
+    "product_name": "Trail Camp Kitchen 3-Piece Pot Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0005",
+    "retail_price": 419.52,
+    "weight_lb": 14.5,
+    "tags": [
+      "compact",
+      "ultralight",
+      "quick-boil"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00017",
+    "sku": "LIG-XQIHG1",
+    "product_name": "Summit Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0011",
+    "retail_price": 422.6,
+    "weight_lb": 15.76,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00018",
+    "sku": "TRA-Q0GEEN",
+    "product_name": "Ridge Trail Safety Signal Mirror & Whistle",
+    "category": "Trail Safety",
+    "vendor_id": "V0010",
+    "retail_price": 206.42,
+    "weight_lb": 17.97,
+    "tags": [
+      "day-hike",
+      "backcountry",
+      "lightweight"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00019",
+    "sku": "HYD-FRN2QX",
+    "product_name": "Pine Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0021",
+    "retail_price": 469.92,
+    "weight_lb": 17.57,
+    "tags": [
+      "spring-summer",
+      "trail",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00020",
+    "sku": "TEN-YUNC87",
+    "product_name": "Camp Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0029",
+    "retail_price": 439.84,
+    "weight_lb": 8.76,
+    "tags": [
+      "ultralight",
+      "4-season",
+      "freestanding"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00021",
+    "sku": "CLI-7SZSG5",
+    "product_name": "Canyon Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0006",
+    "retail_price": 441.58,
+    "weight_lb": 6.81,
+    "tags": [
+      "technical",
+      "sport",
+      "safety-certified"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00022",
+    "sku": "BAC-YTRWSQ",
+    "product_name": "Trail Backpacks Standard",
+    "category": "Backpacks",
+    "vendor_id": "V0007",
+    "retail_price": 156.69,
+    "weight_lb": 10.05,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00023",
+    "sku": "CLI-7PKWTF",
+    "product_name": "Trail Climbing Gear Auto-Belay System",
+    "category": "Climbing Gear",
+    "vendor_id": "V0014",
+    "retail_price": 124.02,
+    "weight_lb": 5.76,
+    "tags": [
+      "safety-certified",
+      "alpine",
+      "technical"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Fall",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00024",
+    "sku": "NAV-3C4OP5",
+    "product_name": "Camp Navigation Lite",
+    "category": "Navigation",
+    "vendor_id": "V0029",
+    "retail_price": 387.57,
+    "weight_lb": 1.34,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00025",
+    "sku": "NAV-VQO49C",
+    "product_name": "Pine Navigation Pro",
+    "category": "Navigation",
+    "vendor_id": "V0027",
+    "retail_price": 564.8,
+    "weight_lb": 10.92,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00026",
+    "sku": "TEN-ZQRXOG",
+    "product_name": "Canyon Tents All-Weather 3-Season",
+    "category": "Tents",
+    "vendor_id": "V0010",
+    "retail_price": 650.23,
+    "weight_lb": 7.07,
+    "tags": [
+      "3-season",
+      "car-camping",
+      "family"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00027",
+    "sku": "BAC-BHQWRK",
+    "product_name": "Canyon Backpacks Series 2",
+    "category": "Backpacks",
+    "vendor_id": "V0019",
+    "retail_price": 569.62,
+    "weight_lb": 18.07,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00028",
+    "sku": "TRA-9X7UN6",
+    "product_name": "Pine Trail Safety Emergency Bivvy",
+    "category": "Trail Safety",
+    "vendor_id": "V0022",
+    "retail_price": 182.42,
+    "weight_lb": 3.39,
+    "tags": [
+      "guided",
+      "day-hike",
+      "emergency"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00029",
+    "sku": "BAC-945WZO",
+    "product_name": "River Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0011",
+    "retail_price": 274.26,
+    "weight_lb": 13.35,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00030",
+    "sku": "HYD-GB1NPW",
+    "product_name": "Summit Hydration Filtration Bottle 1L",
+    "category": "Hydration",
+    "vendor_id": "V0021",
+    "retail_price": 508.26,
+    "weight_lb": 2.19,
+    "tags": [
+      "ultralight",
+      "BPA-free",
+      "spring-summer"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00031",
+    "sku": "CLI-AED4MY",
+    "product_name": "River Climbing Gear Auto-Belay System",
+    "category": "Climbing Gear",
+    "vendor_id": "V0015",
+    "retail_price": 587.52,
+    "weight_lb": 9.72,
+    "tags": [
+      "sport",
+      "technical",
+      "trad"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00032",
+    "sku": "OUT-SDCTX4",
+    "product_name": "River Outerwear Fleece Mid-Layer",
+    "category": "Outerwear",
+    "vendor_id": "V0009",
+    "retail_price": 158.94,
+    "weight_lb": 1.69,
+    "tags": [
+      "winter",
+      "waterproof",
+      "layering"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00033",
+    "sku": "HIK-4S3KJA",
+    "product_name": "Summit Hiking Footwear Ultra",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0029",
+    "retail_price": 333.15,
+    "weight_lb": 13.02,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00034",
+    "sku": "CAM-T66819",
+    "product_name": "Canyon Camp Kitchen 3-Piece Pot Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0026",
+    "retail_price": 303.99,
+    "weight_lb": 11.57,
+    "tags": [
+      "car-camping",
+      "quick-boil",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00035",
+    "sku": "HIK-O84EB8",
+    "product_name": "Trail Hiking Footwear Pro",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0015",
+    "retail_price": 409.99,
+    "weight_lb": 2.49,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00036",
+    "sku": "NAV-1947JL",
+    "product_name": "Camp Navigation Standard",
+    "category": "Navigation",
+    "vendor_id": "V0029",
+    "retail_price": 50.67,
+    "weight_lb": 4.14,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00037",
+    "sku": "OUT-CWIO6O",
+    "product_name": "Trail Outerwear Wind Resistance Vest",
+    "category": "Outerwear",
+    "vendor_id": "V0007",
+    "retail_price": 187.35,
+    "weight_lb": 13.59,
+    "tags": [
+      "winter",
+      "4-season",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00038",
+    "sku": "HYD-4OUC5C",
+    "product_name": "River Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0026",
+    "retail_price": 434.73,
+    "weight_lb": 5.78,
+    "tags": [
+      "trail",
+      "BPA-free",
+      "filter"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00039",
+    "sku": "TRA-6PFUWK",
+    "product_name": "Alpine Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0020",
+    "retail_price": 688.69,
+    "weight_lb": 5.69,
+    "tags": [
+      "essential",
+      "day-hike",
+      "backcountry"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00040",
+    "sku": "BAC-HN2Q0B",
+    "product_name": "Camp Backpacks Lite",
+    "category": "Backpacks",
+    "vendor_id": "V0020",
+    "retail_price": 563.92,
+    "weight_lb": 7.88,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00041",
+    "sku": "OUT-GYBO0M",
+    "product_name": "Trail Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0029",
+    "retail_price": 176.8,
+    "weight_lb": 5.12,
+    "tags": [
+      "fall",
+      "layering",
+      "breathable"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00042",
+    "sku": "TEN-B2VSPB",
+    "product_name": "Pine Tents 4-Person Family",
+    "category": "Tents",
+    "vendor_id": "V0018",
+    "retail_price": 353.74,
+    "weight_lb": 3.51,
+    "tags": [
+      "freestanding",
+      "car-camping",
+      "family"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "4-Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00043",
+    "sku": "TEN-A3TFC7",
+    "product_name": "River Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0018",
+    "retail_price": 46.94,
+    "weight_lb": 9.43,
+    "tags": [
+      "backpacking",
+      "4-season",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00044",
+    "sku": "TEN-LWXON6",
+    "product_name": "Trail Tents Freestanding Dome",
+    "category": "Tents",
+    "vendor_id": "V0028",
+    "retail_price": 364.31,
+    "weight_lb": 9.59,
+    "tags": [
+      "car-camping",
+      "waterproof",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00045",
+    "sku": "CAM-9RX14E",
+    "product_name": "Ridge Camp Kitchen Collapsible Cup Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0012",
+    "retail_price": 754.87,
+    "weight_lb": 16.77,
+    "tags": [
+      "car-camping",
+      "ultralight",
+      "compact"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00046",
+    "sku": "CAM-1XWHMM",
+    "product_name": "Canyon Camp Kitchen Cook System 1-Person",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0004",
+    "retail_price": 338.54,
+    "weight_lb": 17.69,
+    "tags": [
+      "backpacking",
+      "propane",
+      "quick-boil"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00047",
+    "sku": "TEN-D4PJS3",
+    "product_name": "Summit Tents All-Weather 3-Season",
+    "category": "Tents",
+    "vendor_id": "V0004",
+    "retail_price": 520.8,
+    "weight_lb": 11.12,
+    "tags": [
+      "family",
+      "waterproof",
+      "3-season"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00048",
+    "sku": "LIG-FO9VLI",
+    "product_name": "Trail Lighting Elite",
+    "category": "Lighting",
+    "vendor_id": "V0003",
+    "retail_price": 140.77,
+    "weight_lb": 5.55,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00049",
+    "sku": "TEN-RYWUIC",
+    "product_name": "Trail Tents 4-Person Family",
+    "category": "Tents",
+    "vendor_id": "V0029",
+    "retail_price": 232.37,
+    "weight_lb": 11.94,
+    "tags": [
+      "3-season",
+      "4-season",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00050",
+    "sku": "CLI-G4OBPX",
+    "product_name": "Ridge Climbing Gear Sport Quickdraw Set",
+    "category": "Climbing Gear",
+    "vendor_id": "V0023",
+    "retail_price": 592.1,
+    "weight_lb": 3.99,
+    "tags": [
+      "alpine",
+      "technical",
+      "sport"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00051",
+    "sku": "TEN-EFRRYQ",
+    "product_name": "Ridge Tents 4-Person Family",
+    "category": "Tents",
+    "vendor_id": "V0012",
+    "retail_price": 396.74,
+    "weight_lb": 0.86,
+    "tags": [
+      "3-season",
+      "freestanding",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00052",
+    "sku": "LIG-GAVWDM",
+    "product_name": "Summit Lighting Ultra",
+    "category": "Lighting",
+    "vendor_id": "V0028",
+    "retail_price": 44.67,
+    "weight_lb": 6.99,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00053",
+    "sku": "NAV-SXZ1ID",
+    "product_name": "Trail Navigation Elite",
+    "category": "Navigation",
+    "vendor_id": "V0017",
+    "retail_price": 366.73,
+    "weight_lb": 11.6,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00054",
+    "sku": "OUT-Z26A5K",
+    "product_name": "Camp Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0008",
+    "retail_price": 432.47,
+    "weight_lb": 6.88,
+    "tags": [
+      "fall",
+      "breathable",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00055",
+    "sku": "LIG-SNPNJ9",
+    "product_name": "Canyon Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0024",
+    "retail_price": 496.42,
+    "weight_lb": 17.72,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00056",
+    "sku": "TRA-4ZVVUK",
+    "product_name": "Camp Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0025",
+    "retail_price": 236.38,
+    "weight_lb": 3.65,
+    "tags": [
+      "all-season",
+      "backcountry",
+      "essential"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00057",
+    "sku": "CAM-BNU83T",
+    "product_name": "Pine Camp Kitchen Collapsible Cup Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0027",
+    "retail_price": 94.36,
+    "weight_lb": 8.69,
+    "tags": [
+      "quick-boil",
+      "ultralight",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00058",
+    "sku": "BAC-4NIK63",
+    "product_name": "Alpine Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0004",
+    "retail_price": 311.57,
+    "weight_lb": 11.54,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00059",
+    "sku": "NAV-E2LR0L",
+    "product_name": "Alpine Navigation Lite",
+    "category": "Navigation",
+    "vendor_id": "V0001",
+    "retail_price": 467.47,
+    "weight_lb": 15.9,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00060",
+    "sku": "CLI-9U96M6",
+    "product_name": "Pine Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0017",
+    "retail_price": 552.88,
+    "weight_lb": 14.34,
+    "tags": [
+      "sport",
+      "trad",
+      "alpine"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00061",
+    "sku": "LIG-YBQQNU",
+    "product_name": "Pine Lighting Series 2",
+    "category": "Lighting",
+    "vendor_id": "V0022",
+    "retail_price": 422.21,
+    "weight_lb": 13.48,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00062",
+    "sku": "HYD-8SY16P",
+    "product_name": "Trail Hydration 3L Bladder System",
+    "category": "Hydration",
+    "vendor_id": "V0025",
+    "retail_price": 226.93,
+    "weight_lb": 0.6,
+    "tags": [
+      "ultralight",
+      "spring-summer",
+      "BPA-free"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00063",
+    "sku": "LIG-SOAZ32",
+    "product_name": "Ridge Lighting Lite",
+    "category": "Lighting",
+    "vendor_id": "V0029",
+    "retail_price": 263.0,
+    "weight_lb": 10.31,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00064",
+    "sku": "NAV-6C02OR",
+    "product_name": "River Navigation Ultra",
+    "category": "Navigation",
+    "vendor_id": "V0011",
+    "retail_price": 48.59,
+    "weight_lb": 4.31,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00065",
+    "sku": "HIK-CTJB4Z",
+    "product_name": "Trail Hiking Footwear Lite",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0027",
+    "retail_price": 270.78,
+    "weight_lb": 1.24,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00066",
+    "sku": "BAC-KT4PD4",
+    "product_name": "Trail Backpacks Series 2",
+    "category": "Backpacks",
+    "vendor_id": "V0019",
+    "retail_price": 567.32,
+    "weight_lb": 5.18,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00067",
+    "sku": "CAM-TFBWAE",
+    "product_name": "River Camp Kitchen Spork & Tool Kit",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0013",
+    "retail_price": 142.7,
+    "weight_lb": 4.23,
+    "tags": [
+      "backpacking",
+      "propane",
+      "quick-boil"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00068",
+    "sku": "TEN-JJ91A8",
+    "product_name": "Camp Tents Freestanding Dome",
+    "category": "Tents",
+    "vendor_id": "V0013",
+    "retail_price": 228.52,
+    "weight_lb": 5.21,
+    "tags": [
+      "backpacking",
+      "waterproof",
+      "3-season"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "3-Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00069",
+    "sku": "OUT-IQRYZL",
+    "product_name": "Alpine Outerwear Wind Resistance Vest",
+    "category": "Outerwear",
+    "vendor_id": "V0006",
+    "retail_price": 275.78,
+    "weight_lb": 2.83,
+    "tags": [
+      "waterproof",
+      "winter",
+      "4-season"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00070",
+    "sku": "HYD-NWKG8J",
+    "product_name": "River Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0012",
+    "retail_price": 540.32,
+    "weight_lb": 18.45,
+    "tags": [
+      "ultralight",
+      "filter",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00071",
+    "sku": "HYD-QJ6YCD",
+    "product_name": "Camp Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0004",
+    "retail_price": 499.85,
+    "weight_lb": 12.79,
+    "tags": [
+      "spring-summer",
+      "day-hike",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00072",
+    "sku": "NAV-NZD2SI",
+    "product_name": "Trail Navigation Lite",
+    "category": "Navigation",
+    "vendor_id": "V0003",
+    "retail_price": 92.45,
+    "weight_lb": 3.06,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00073",
+    "sku": "OUT-MA19Z3",
+    "product_name": "Pine Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0030",
+    "retail_price": 647.91,
+    "weight_lb": 6.23,
+    "tags": [
+      "winter",
+      "waterproof",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00074",
+    "sku": "TRA-7RZGDM",
+    "product_name": "Pine Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0030",
+    "retail_price": 220.55,
+    "weight_lb": 12.81,
+    "tags": [
+      "lightweight",
+      "guided",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00075",
+    "sku": "HIK-5HD2F9",
+    "product_name": "Alpine Hiking Footwear Lite",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0019",
+    "retail_price": 549.38,
+    "weight_lb": 10.05,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00076",
+    "sku": "HYD-0EW10I",
+    "product_name": "Camp Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0008",
+    "retail_price": 487.81,
+    "weight_lb": 17.71,
+    "tags": [
+      "trail",
+      "insulated",
+      "spring-summer"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00077",
+    "sku": "HIK-HITWEN",
+    "product_name": "Trail Hiking Footwear Elite",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0003",
+    "retail_price": 420.44,
+    "weight_lb": 17.51,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00078",
+    "sku": "CAM-GB4R77",
+    "product_name": "River Camp Kitchen Cook System 1-Person",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0019",
+    "retail_price": 254.13,
+    "weight_lb": 12.59,
+    "tags": [
+      "compact",
+      "car-camping",
+      "propane"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00079",
+    "sku": "HYD-13MJRS",
+    "product_name": "Camp Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0023",
+    "retail_price": 291.37,
+    "weight_lb": 5.98,
+    "tags": [
+      "BPA-free",
+      "ultralight",
+      "insulated"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00080",
+    "sku": "HIK-EPXXCG",
+    "product_name": "Pine Hiking Footwear Series 2",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0019",
+    "retail_price": 353.31,
+    "weight_lb": 16.05,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00081",
+    "sku": "HYD-Z69JI6",
+    "product_name": "Pine Hydration Filtration Bottle 1L",
+    "category": "Hydration",
+    "vendor_id": "V0029",
+    "retail_price": 299.2,
+    "weight_lb": 6.62,
+    "tags": [
+      "day-hike",
+      "insulated",
+      "BPA-free"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00082",
+    "sku": "CLI-34UQN2",
+    "product_name": "Trail Climbing Gear Carabiner Rack",
+    "category": "Climbing Gear",
+    "vendor_id": "V0002",
+    "retail_price": 489.41,
+    "weight_lb": 1.14,
+    "tags": [
+      "sport",
+      "safety-certified",
+      "alpine"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00083",
+    "sku": "OUT-PYTGAS",
+    "product_name": "Canyon Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0002",
+    "retail_price": 102.7,
+    "weight_lb": 12.49,
+    "tags": [
+      "windproof",
+      "waterproof",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall/Winter",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00084",
+    "sku": "LIG-3L7C6C",
+    "product_name": "Ridge Lighting Pro",
+    "category": "Lighting",
+    "vendor_id": "V0021",
+    "retail_price": 126.05,
+    "weight_lb": 0.68,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00085",
+    "sku": "OUT-WIB9XW",
+    "product_name": "Summit Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0003",
+    "retail_price": 220.54,
+    "weight_lb": 5.46,
+    "tags": [
+      "winter",
+      "layering",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00086",
+    "sku": "NAV-RBOS9O",
+    "product_name": "Canyon Navigation Lite",
+    "category": "Navigation",
+    "vendor_id": "V0019",
+    "retail_price": 62.83,
+    "weight_lb": 4.98,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00087",
+    "sku": "HIK-ZY3ZR5",
+    "product_name": "Pine Hiking Footwear Ultra",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0002",
+    "retail_price": 295.38,
+    "weight_lb": 9.26,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00088",
+    "sku": "TRA-UH91U6",
+    "product_name": "Trail Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0016",
+    "retail_price": 318.05,
+    "weight_lb": 17.7,
+    "tags": [
+      "all-season",
+      "lightweight",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00089",
+    "sku": "HYD-LTB0F5",
+    "product_name": "Summit Hydration 2L Reservoir",
+    "category": "Hydration",
+    "vendor_id": "V0024",
+    "retail_price": 322.62,
+    "weight_lb": 3.85,
+    "tags": [
+      "insulated",
+      "filter",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00090",
+    "sku": "HYD-DVUVMW",
+    "product_name": "Canyon Hydration Gravity Filter Kit",
+    "category": "Hydration",
+    "vendor_id": "V0022",
+    "retail_price": 659.17,
+    "weight_lb": 10.61,
+    "tags": [
+      "day-hike",
+      "filter",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00091",
+    "sku": "CLI-QL95F7",
+    "product_name": "Ridge Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0028",
+    "retail_price": 58.96,
+    "weight_lb": 11.94,
+    "tags": [
+      "beginner",
+      "alpine",
+      "trad"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00092",
+    "sku": "TEN-G9E496",
+    "product_name": "Alpine Tents 3-Person Base Camp",
+    "category": "Tents",
+    "vendor_id": "V0005",
+    "retail_price": 326.92,
+    "weight_lb": 5.78,
+    "tags": [
+      "freestanding",
+      "backpacking",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00093",
+    "sku": "NAV-X8XIJC",
+    "product_name": "Trail Navigation Standard",
+    "category": "Navigation",
+    "vendor_id": "V0008",
+    "retail_price": 211.16,
+    "weight_lb": 14.93,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00094",
+    "sku": "NAV-XNCCZM",
+    "product_name": "Camp Navigation Elite",
+    "category": "Navigation",
+    "vendor_id": "V0026",
+    "retail_price": 513.66,
+    "weight_lb": 14.49,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00095",
+    "sku": "HYD-LT3S7G",
+    "product_name": "Trail Hydration 3L Bladder System",
+    "category": "Hydration",
+    "vendor_id": "V0017",
+    "retail_price": 432.18,
+    "weight_lb": 14.59,
+    "tags": [
+      "insulated",
+      "BPA-free",
+      "spring-summer"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00096",
+    "sku": "BAC-CHH8Q5",
+    "product_name": "Alpine Backpacks Elite",
+    "category": "Backpacks",
+    "vendor_id": "V0027",
+    "retail_price": 386.0,
+    "weight_lb": 14.93,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00097",
+    "sku": "BAC-LV5SAC",
+    "product_name": "Trail Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0013",
+    "retail_price": 344.74,
+    "weight_lb": 4.49,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00098",
+    "sku": "HYD-ADP2H9",
+    "product_name": "Canyon Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0022",
+    "retail_price": 78.31,
+    "weight_lb": 17.31,
+    "tags": [
+      "ultralight",
+      "BPA-free",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00099",
+    "sku": "OUT-DNY3M7",
+    "product_name": "Camp Outerwear Fleece Mid-Layer",
+    "category": "Outerwear",
+    "vendor_id": "V0022",
+    "retail_price": 545.66,
+    "weight_lb": 10.01,
+    "tags": [
+      "waterproof",
+      "winter",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00100",
+    "sku": "HYD-KNDI1C",
+    "product_name": "Summit Hydration 3L Bladder System",
+    "category": "Hydration",
+    "vendor_id": "V0028",
+    "retail_price": 436.62,
+    "weight_lb": 12.07,
+    "tags": [
+      "ultralight",
+      "day-hike",
+      "filter"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00101",
+    "sku": "TRA-G5UPPE",
+    "product_name": "Canyon Trail Safety Personal Locator",
+    "category": "Trail Safety",
+    "vendor_id": "V0008",
+    "retail_price": 210.51,
+    "weight_lb": 6.72,
+    "tags": [
+      "guided",
+      "lightweight",
+      "essential"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00102",
+    "sku": "LIG-SRASK5",
+    "product_name": "Camp Lighting Lite",
+    "category": "Lighting",
+    "vendor_id": "V0018",
+    "retail_price": 566.9,
+    "weight_lb": 12.2,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00103",
+    "sku": "HIK-VYK0D0",
+    "product_name": "Alpine Hiking Footwear Series 2",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0028",
+    "retail_price": 244.14,
+    "weight_lb": 14.37,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00104",
+    "sku": "OUT-XELWZV",
+    "product_name": "Pine Outerwear Wind Resistance Vest",
+    "category": "Outerwear",
+    "vendor_id": "V0013",
+    "retail_price": 305.95,
+    "weight_lb": 10.21,
+    "tags": [
+      "4-season",
+      "waterproof",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00105",
+    "sku": "TRA-LDQH8M",
+    "product_name": "River Trail Safety Emergency Bivvy",
+    "category": "Trail Safety",
+    "vendor_id": "V0002",
+    "retail_price": 295.01,
+    "weight_lb": 4.77,
+    "tags": [
+      "backcountry",
+      "emergency",
+      "guided"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00106",
+    "sku": "TEN-94STYG",
+    "product_name": "Trail Tents 4-Person Family",
+    "category": "Tents",
+    "vendor_id": "V0022",
+    "retail_price": 487.11,
+    "weight_lb": 4.28,
+    "tags": [
+      "ultralight",
+      "family",
+      "freestanding"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00107",
+    "sku": "NAV-JTC0MC",
+    "product_name": "Alpine Navigation Lite",
+    "category": "Navigation",
+    "vendor_id": "V0011",
+    "retail_price": 84.89,
+    "weight_lb": 11.0,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00108",
+    "sku": "OUT-NMO6KZ",
+    "product_name": "Ridge Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0024",
+    "retail_price": 415.82,
+    "weight_lb": 10.74,
+    "tags": [
+      "layering",
+      "breathable",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00109",
+    "sku": "CAM-OR6D33",
+    "product_name": "Ridge Camp Kitchen Compact Stove",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0017",
+    "retail_price": 309.48,
+    "weight_lb": 17.64,
+    "tags": [
+      "ultralight",
+      "propane",
+      "quick-boil"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00110",
+    "sku": "OUT-6WM8FG",
+    "product_name": "Alpine Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0023",
+    "retail_price": 347.56,
+    "weight_lb": 7.08,
+    "tags": [
+      "waterproof",
+      "layering",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00111",
+    "sku": "LIG-HI9CPI",
+    "product_name": "Summit Lighting Lite",
+    "category": "Lighting",
+    "vendor_id": "V0018",
+    "retail_price": 100.81,
+    "weight_lb": 17.95,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00112",
+    "sku": "HYD-ELP149",
+    "product_name": "Ridge Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0022",
+    "retail_price": 104.66,
+    "weight_lb": 11.35,
+    "tags": [
+      "day-hike",
+      "insulated",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00113",
+    "sku": "TRA-K62Z58",
+    "product_name": "Alpine Trail Safety Multi-Tool Safety",
+    "category": "Trail Safety",
+    "vendor_id": "V0029",
+    "retail_price": 603.62,
+    "weight_lb": 0.38,
+    "tags": [
+      "backcountry",
+      "emergency",
+      "guided"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00114",
+    "sku": "LIG-N8AANE",
+    "product_name": "Summit Lighting Pro",
+    "category": "Lighting",
+    "vendor_id": "V0012",
+    "retail_price": 572.11,
+    "weight_lb": 12.97,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00115",
+    "sku": "CAM-OVRBA2",
+    "product_name": "Ridge Camp Kitchen Cook System 1-Person",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0026",
+    "retail_price": 30.25,
+    "weight_lb": 14.49,
+    "tags": [
+      "propane",
+      "ultralight",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00116",
+    "sku": "TEN-QV9XP6",
+    "product_name": "Pine Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0004",
+    "retail_price": 67.53,
+    "weight_lb": 0.75,
+    "tags": [
+      "3-season",
+      "family",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00117",
+    "sku": "LIG-FQOJYI",
+    "product_name": "Trail Lighting Elite",
+    "category": "Lighting",
+    "vendor_id": "V0026",
+    "retail_price": 60.31,
+    "weight_lb": 10.73,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00118",
+    "sku": "CAM-D2JYF1",
+    "product_name": "Ridge Camp Kitchen Compact Stove",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0015",
+    "retail_price": 431.83,
+    "weight_lb": 5.36,
+    "tags": [
+      "car-camping",
+      "propane",
+      "compact"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00119",
+    "sku": "TEN-SVB293",
+    "product_name": "Summit Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0026",
+    "retail_price": 352.53,
+    "weight_lb": 13.56,
+    "tags": [
+      "freestanding",
+      "waterproof",
+      "3-season"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "4-Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00120",
+    "sku": "OUT-68OR2D",
+    "product_name": "Canyon Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0022",
+    "retail_price": 64.28,
+    "weight_lb": 7.98,
+    "tags": [
+      "layering",
+      "breathable",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00121",
+    "sku": "LIG-GCGHXJ",
+    "product_name": "Summit Lighting Elite",
+    "category": "Lighting",
+    "vendor_id": "V0007",
+    "retail_price": 126.69,
+    "weight_lb": 0.4,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00122",
+    "sku": "OUT-6Y9DSX",
+    "product_name": "River Outerwear Fleece Mid-Layer",
+    "category": "Outerwear",
+    "vendor_id": "V0029",
+    "retail_price": 566.01,
+    "weight_lb": 6.96,
+    "tags": [
+      "winter",
+      "windproof",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00123",
+    "sku": "BAC-DJPF4K",
+    "product_name": "Pine Backpacks Pro",
+    "category": "Backpacks",
+    "vendor_id": "V0020",
+    "retail_price": 127.18,
+    "weight_lb": 6.63,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00124",
+    "sku": "HYD-ATVYXP",
+    "product_name": "River Hydration Filtration Bottle 1L",
+    "category": "Hydration",
+    "vendor_id": "V0005",
+    "retail_price": 384.42,
+    "weight_lb": 5.41,
+    "tags": [
+      "insulated",
+      "day-hike",
+      "BPA-free"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00125",
+    "sku": "CLI-7EGU70",
+    "product_name": "Trail Climbing Gear Sport Quickdraw Set",
+    "category": "Climbing Gear",
+    "vendor_id": "V0018",
+    "retail_price": 479.1,
+    "weight_lb": 14.88,
+    "tags": [
+      "safety-certified",
+      "beginner",
+      "UIAA-rated"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00126",
+    "sku": "NAV-ZQEXLO",
+    "product_name": "Pine Navigation Pro",
+    "category": "Navigation",
+    "vendor_id": "V0018",
+    "retail_price": 180.97,
+    "weight_lb": 1.01,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00127",
+    "sku": "LIG-HLLU9D",
+    "product_name": "River Lighting Pro",
+    "category": "Lighting",
+    "vendor_id": "V0006",
+    "retail_price": 543.7,
+    "weight_lb": 9.19,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00128",
+    "sku": "TEN-OLLWJP",
+    "product_name": "Ridge Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0004",
+    "retail_price": 222.47,
+    "weight_lb": 13.77,
+    "tags": [
+      "ultralight",
+      "waterproof",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00129",
+    "sku": "HYD-IOK4EX",
+    "product_name": "Alpine Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0021",
+    "retail_price": 603.29,
+    "weight_lb": 10.53,
+    "tags": [
+      "trail",
+      "filter",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00130",
+    "sku": "BAC-RBUC4Z",
+    "product_name": "Pine Backpacks Standard",
+    "category": "Backpacks",
+    "vendor_id": "V0006",
+    "retail_price": 91.24,
+    "weight_lb": 18.47,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00131",
+    "sku": "TEN-M1IGBZ",
+    "product_name": "Summit Tents 3-Person Base Camp",
+    "category": "Tents",
+    "vendor_id": "V0013",
+    "retail_price": 558.94,
+    "weight_lb": 11.32,
+    "tags": [
+      "freestanding",
+      "ultralight",
+      "3-season"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00132",
+    "sku": "TEN-1JA5HS",
+    "product_name": "Ridge Tents 3-Person Base Camp",
+    "category": "Tents",
+    "vendor_id": "V0030",
+    "retail_price": 236.23,
+    "weight_lb": 11.81,
+    "tags": [
+      "ultralight",
+      "backpacking",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00133",
+    "sku": "OUT-8PNPM0",
+    "product_name": "Camp Outerwear Insulated Parka",
+    "category": "Outerwear",
+    "vendor_id": "V0013",
+    "retail_price": 507.95,
+    "weight_lb": 6.84,
+    "tags": [
+      "breathable",
+      "layering",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Fall/Winter",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00134",
+    "sku": "HYD-ZW0AT2",
+    "product_name": "Alpine Hydration 2L Reservoir",
+    "category": "Hydration",
+    "vendor_id": "V0026",
+    "retail_price": 154.54,
+    "weight_lb": 12.38,
+    "tags": [
+      "spring-summer",
+      "filter",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00135",
+    "sku": "NAV-C2BU2N",
+    "product_name": "Camp Navigation Lite",
+    "category": "Navigation",
+    "vendor_id": "V0001",
+    "retail_price": 217.54,
+    "weight_lb": 15.64,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00136",
+    "sku": "CLI-QQCQKY",
+    "product_name": "Summit Climbing Gear Cam Set 4-pc",
+    "category": "Climbing Gear",
+    "vendor_id": "V0019",
+    "retail_price": 24.95,
+    "weight_lb": 15.77,
+    "tags": [
+      "beginner",
+      "safety-certified",
+      "UIAA-rated"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Fall",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00137",
+    "sku": "NAV-0LDW18",
+    "product_name": "Pine Navigation Pro",
+    "category": "Navigation",
+    "vendor_id": "V0022",
+    "retail_price": 491.87,
+    "weight_lb": 5.57,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00138",
+    "sku": "CAM-Y88JQH",
+    "product_name": "Alpine Camp Kitchen Compact Stove",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0024",
+    "retail_price": 291.59,
+    "weight_lb": 15.9,
+    "tags": [
+      "backpacking",
+      "ultralight",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00139",
+    "sku": "NAV-YZTWGM",
+    "product_name": "Ridge Navigation Pro",
+    "category": "Navigation",
+    "vendor_id": "V0016",
+    "retail_price": 365.53,
+    "weight_lb": 14.85,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00140",
+    "sku": "HYD-9STKMD",
+    "product_name": "Canyon Hydration Filtration Bottle 1L",
+    "category": "Hydration",
+    "vendor_id": "V0011",
+    "retail_price": 259.76,
+    "weight_lb": 7.06,
+    "tags": [
+      "ultralight",
+      "trail",
+      "filter"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00141",
+    "sku": "TEN-J8TWNW",
+    "product_name": "Summit Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0024",
+    "retail_price": 90.02,
+    "weight_lb": 15.41,
+    "tags": [
+      "3-season",
+      "ultralight",
+      "4-season"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00142",
+    "sku": "OUT-JAP7U2",
+    "product_name": "Canyon Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0011",
+    "retail_price": 398.88,
+    "weight_lb": 10.39,
+    "tags": [
+      "layering",
+      "windproof",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00143",
+    "sku": "LIG-1TK9RR",
+    "product_name": "Summit Lighting Series 2",
+    "category": "Lighting",
+    "vendor_id": "V0024",
+    "retail_price": 222.67,
+    "weight_lb": 1.96,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00144",
+    "sku": "BAC-EZ6YQ4",
+    "product_name": "Trail Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0019",
+    "retail_price": 392.62,
+    "weight_lb": 13.25,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00145",
+    "sku": "HYD-B9I3H4",
+    "product_name": "Canyon Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0007",
+    "retail_price": 313.16,
+    "weight_lb": 10.62,
+    "tags": [
+      "BPA-free",
+      "day-hike",
+      "spring-summer"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00146",
+    "sku": "HIK-GNY9IM",
+    "product_name": "River Hiking Footwear Lite",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0020",
+    "retail_price": 274.56,
+    "weight_lb": 3.18,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00147",
+    "sku": "NAV-7QCRAL",
+    "product_name": "Trail Navigation Elite",
+    "category": "Navigation",
+    "vendor_id": "V0010",
+    "retail_price": 153.52,
+    "weight_lb": 12.3,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00148",
+    "sku": "CAM-KLO9ZQ",
+    "product_name": "Alpine Camp Kitchen Collapsible Cup Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0019",
+    "retail_price": 585.16,
+    "weight_lb": 1.68,
+    "tags": [
+      "car-camping",
+      "quick-boil",
+      "compact"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00149",
+    "sku": "TRA-JIP46Y",
+    "product_name": "Pine Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0012",
+    "retail_price": 579.48,
+    "weight_lb": 2.34,
+    "tags": [
+      "day-hike",
+      "emergency",
+      "all-season"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00150",
+    "sku": "NAV-G225IY",
+    "product_name": "Alpine Navigation Elite",
+    "category": "Navigation",
+    "vendor_id": "V0010",
+    "retail_price": 587.56,
+    "weight_lb": 4.71,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00151",
+    "sku": "TRA-UBIGZZ",
+    "product_name": "Summit Trail Safety First Aid Kit",
+    "category": "Trail Safety",
+    "vendor_id": "V0015",
+    "retail_price": 497.93,
+    "weight_lb": 5.3,
+    "tags": [
+      "lightweight",
+      "backcountry",
+      "all-season"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00152",
+    "sku": "LIG-ASUIQN",
+    "product_name": "Camp Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0029",
+    "retail_price": 258.82,
+    "weight_lb": 18.36,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00153",
+    "sku": "TEN-1ZGCGO",
+    "product_name": "Ridge Tents Ultralight Solo",
+    "category": "Tents",
+    "vendor_id": "V0026",
+    "retail_price": 220.94,
+    "weight_lb": 12.34,
+    "tags": [
+      "family",
+      "freestanding",
+      "3-season"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00154",
+    "sku": "LIG-KTFH3S",
+    "product_name": "Camp Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0020",
+    "retail_price": 670.02,
+    "weight_lb": 1.98,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00155",
+    "sku": "LIG-KIFTAO",
+    "product_name": "Ridge Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0020",
+    "retail_price": 589.47,
+    "weight_lb": 14.61,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00156",
+    "sku": "BAC-XECC72",
+    "product_name": "River Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0024",
+    "retail_price": 652.36,
+    "weight_lb": 8.45,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00157",
+    "sku": "CLI-3R06RX",
+    "product_name": "Alpine Climbing Gear Cam Set 4-pc",
+    "category": "Climbing Gear",
+    "vendor_id": "V0026",
+    "retail_price": 511.44,
+    "weight_lb": 15.47,
+    "tags": [
+      "UIAA-rated",
+      "sport",
+      "trad"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00158",
+    "sku": "HYD-GUOC6I",
+    "product_name": "Ridge Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0006",
+    "retail_price": 157.69,
+    "weight_lb": 17.15,
+    "tags": [
+      "trail",
+      "insulated",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00159",
+    "sku": "OUT-Q08M0K",
+    "product_name": "Alpine Outerwear Insulated Parka",
+    "category": "Outerwear",
+    "vendor_id": "V0003",
+    "retail_price": 310.78,
+    "weight_lb": 16.89,
+    "tags": [
+      "winter",
+      "layering",
+      "4-season"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall/Winter",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00160",
+    "sku": "CAM-V0HBMI",
+    "product_name": "Alpine Camp Kitchen Compact Stove",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0030",
+    "retail_price": 455.76,
+    "weight_lb": 1.05,
+    "tags": [
+      "car-camping",
+      "ultralight",
+      "compact"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00161",
+    "sku": "OUT-QP2YPG",
+    "product_name": "Trail Outerwear Softshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0005",
+    "retail_price": 310.62,
+    "weight_lb": 2.05,
+    "tags": [
+      "4-season",
+      "breathable",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00162",
+    "sku": "TEN-PV7RTK",
+    "product_name": "Alpine Tents All-Weather 3-Season",
+    "category": "Tents",
+    "vendor_id": "V0016",
+    "retail_price": 436.66,
+    "weight_lb": 4.1,
+    "tags": [
+      "4-season",
+      "backpacking",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "4-Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00163",
+    "sku": "CLI-NIF7QB",
+    "product_name": "River Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0025",
+    "retail_price": 275.84,
+    "weight_lb": 11.23,
+    "tags": [
+      "UIAA-rated",
+      "technical",
+      "trad"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00164",
+    "sku": "NAV-UGIX8I",
+    "product_name": "Summit Navigation Standard",
+    "category": "Navigation",
+    "vendor_id": "V0012",
+    "retail_price": 108.9,
+    "weight_lb": 16.08,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00165",
+    "sku": "HIK-SILQPQ",
+    "product_name": "River Hiking Footwear Ultra",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0010",
+    "retail_price": 264.33,
+    "weight_lb": 14.26,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00166",
+    "sku": "HIK-3FWK9O",
+    "product_name": "River Hiking Footwear Series 2",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0025",
+    "retail_price": 152.36,
+    "weight_lb": 7.53,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00167",
+    "sku": "LIG-2VGLWG",
+    "product_name": "Ridge Lighting Ultra",
+    "category": "Lighting",
+    "vendor_id": "V0025",
+    "retail_price": 136.77,
+    "weight_lb": 15.58,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00168",
+    "sku": "TEN-XQRA35",
+    "product_name": "Summit Tents All-Weather 3-Season",
+    "category": "Tents",
+    "vendor_id": "V0027",
+    "retail_price": 76.25,
+    "weight_lb": 6.63,
+    "tags": [
+      "freestanding",
+      "family",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00169",
+    "sku": "TRA-7U3RYI",
+    "product_name": "Canyon Trail Safety Emergency Bivvy",
+    "category": "Trail Safety",
+    "vendor_id": "V0005",
+    "retail_price": 409.64,
+    "weight_lb": 12.23,
+    "tags": [
+      "guided",
+      "lightweight",
+      "emergency"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00170",
+    "sku": "TRA-DUN6CQ",
+    "product_name": "Camp Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0024",
+    "retail_price": 454.68,
+    "weight_lb": 11.65,
+    "tags": [
+      "backcountry",
+      "emergency",
+      "lightweight"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00171",
+    "sku": "TRA-G8GT1J",
+    "product_name": "Trail Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0014",
+    "retail_price": 93.75,
+    "weight_lb": 3.22,
+    "tags": [
+      "lightweight",
+      "day-hike",
+      "emergency"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00172",
+    "sku": "HYD-9JEXFA",
+    "product_name": "Pine Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0007",
+    "retail_price": 359.05,
+    "weight_lb": 3.85,
+    "tags": [
+      "BPA-free",
+      "insulated",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00173",
+    "sku": "CLI-BN7S0U",
+    "product_name": "River Climbing Gear Pro Harness",
+    "category": "Climbing Gear",
+    "vendor_id": "V0021",
+    "retail_price": 534.3,
+    "weight_lb": 6.48,
+    "tags": [
+      "UIAA-rated",
+      "beginner",
+      "safety-certified"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00174",
+    "sku": "LIG-KZQ86T",
+    "product_name": "Summit Lighting Series 2",
+    "category": "Lighting",
+    "vendor_id": "V0024",
+    "retail_price": 363.5,
+    "weight_lb": 10.02,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00175",
+    "sku": "CLI-G51ZJ0",
+    "product_name": "Pine Climbing Gear Sport Quickdraw Set",
+    "category": "Climbing Gear",
+    "vendor_id": "V0021",
+    "retail_price": 327.8,
+    "weight_lb": 1.63,
+    "tags": [
+      "beginner",
+      "trad",
+      "UIAA-rated"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00176",
+    "sku": "OUT-F4HQQ3",
+    "product_name": "Pine Outerwear Softshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0011",
+    "retail_price": 662.84,
+    "weight_lb": 17.42,
+    "tags": [
+      "layering",
+      "4-season",
+      "windproof"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00177",
+    "sku": "OUT-JP518P",
+    "product_name": "River Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0015",
+    "retail_price": 353.87,
+    "weight_lb": 1.64,
+    "tags": [
+      "waterproof",
+      "layering",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00178",
+    "sku": "TRA-S1VGTL",
+    "product_name": "Ridge Trail Safety First Aid Kit",
+    "category": "Trail Safety",
+    "vendor_id": "V0005",
+    "retail_price": 540.49,
+    "weight_lb": 2.03,
+    "tags": [
+      "emergency",
+      "backcountry",
+      "lightweight"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00179",
+    "sku": "TEN-RFAL4L",
+    "product_name": "Camp Tents Freestanding Dome",
+    "category": "Tents",
+    "vendor_id": "V0004",
+    "retail_price": 562.25,
+    "weight_lb": 10.08,
+    "tags": [
+      "4-season",
+      "car-camping",
+      "family"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00180",
+    "sku": "HYD-KOIR9N",
+    "product_name": "Pine Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0029",
+    "retail_price": 580.5,
+    "weight_lb": 13.67,
+    "tags": [
+      "insulated",
+      "trail",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00181",
+    "sku": "LIG-YA46SB",
+    "product_name": "Canyon Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0004",
+    "retail_price": 495.62,
+    "weight_lb": 12.19,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00182",
+    "sku": "TRA-DL6CTW",
+    "product_name": "Alpine Trail Safety Personal Locator",
+    "category": "Trail Safety",
+    "vendor_id": "V0021",
+    "retail_price": 268.87,
+    "weight_lb": 16.77,
+    "tags": [
+      "essential",
+      "guided",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00183",
+    "sku": "HYD-GIYEF2",
+    "product_name": "Ridge Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0013",
+    "retail_price": 316.76,
+    "weight_lb": 4.46,
+    "tags": [
+      "insulated",
+      "spring-summer",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00184",
+    "sku": "NAV-4FTH3F",
+    "product_name": "Alpine Navigation Series 2",
+    "category": "Navigation",
+    "vendor_id": "V0007",
+    "retail_price": 308.0,
+    "weight_lb": 12.59,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00185",
+    "sku": "NAV-WS0OSA",
+    "product_name": "Canyon Navigation Series 2",
+    "category": "Navigation",
+    "vendor_id": "V0016",
+    "retail_price": 553.09,
+    "weight_lb": 9.52,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00186",
+    "sku": "HIK-M9G395",
+    "product_name": "Ridge Hiking Footwear Ultra",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0025",
+    "retail_price": 258.16,
+    "weight_lb": 13.76,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00187",
+    "sku": "NAV-H3BNG2",
+    "product_name": "Camp Navigation Ultra",
+    "category": "Navigation",
+    "vendor_id": "V0019",
+    "retail_price": 419.01,
+    "weight_lb": 14.28,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00188",
+    "sku": "BAC-DBG65J",
+    "product_name": "Summit Backpacks Standard",
+    "category": "Backpacks",
+    "vendor_id": "V0029",
+    "retail_price": 159.06,
+    "weight_lb": 4.75,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00189",
+    "sku": "TRA-NA5MB3",
+    "product_name": "Summit Trail Safety First Aid Kit",
+    "category": "Trail Safety",
+    "vendor_id": "V0011",
+    "retail_price": 475.06,
+    "weight_lb": 1.37,
+    "tags": [
+      "lightweight",
+      "essential",
+      "all-season"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00190",
+    "sku": "OUT-HY9F8I",
+    "product_name": "Pine Outerwear Softshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0013",
+    "retail_price": 243.09,
+    "weight_lb": 7.02,
+    "tags": [
+      "breathable",
+      "windproof",
+      "fall"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00191",
+    "sku": "CAM-7A09ZB",
+    "product_name": "Canyon Camp Kitchen 3-Piece Pot Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0003",
+    "retail_price": 95.23,
+    "weight_lb": 4.34,
+    "tags": [
+      "propane",
+      "compact",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00192",
+    "sku": "HYD-09643A",
+    "product_name": "Pine Hydration Insulated Carrier",
+    "category": "Hydration",
+    "vendor_id": "V0025",
+    "retail_price": 451.44,
+    "weight_lb": 4.07,
+    "tags": [
+      "insulated",
+      "filter",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00193",
+    "sku": "OUT-B34NUU",
+    "product_name": "Canyon Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0021",
+    "retail_price": 347.75,
+    "weight_lb": 1.94,
+    "tags": [
+      "layering",
+      "winter",
+      "4-season"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00194",
+    "sku": "TEN-9RV0HX",
+    "product_name": "River Tents All-Weather 3-Season",
+    "category": "Tents",
+    "vendor_id": "V0004",
+    "retail_price": 230.27,
+    "weight_lb": 6.25,
+    "tags": [
+      "family",
+      "4-season",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "3-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00195",
+    "sku": "TRA-08T5PN",
+    "product_name": "Camp Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0012",
+    "retail_price": 341.87,
+    "weight_lb": 5.32,
+    "tags": [
+      "emergency",
+      "lightweight",
+      "essential"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00196",
+    "sku": "LIG-KCWB6L",
+    "product_name": "Canyon Lighting Series 2",
+    "category": "Lighting",
+    "vendor_id": "V0017",
+    "retail_price": 128.28,
+    "weight_lb": 11.41,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00197",
+    "sku": "TEN-CF1LKM",
+    "product_name": "Ridge Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0009",
+    "retail_price": 422.25,
+    "weight_lb": 15.83,
+    "tags": [
+      "backpacking",
+      "freestanding",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00198",
+    "sku": "CLI-Y2I9EQ",
+    "product_name": "Alpine Climbing Gear Cam Set 4-pc",
+    "category": "Climbing Gear",
+    "vendor_id": "V0002",
+    "retail_price": 149.31,
+    "weight_lb": 7.39,
+    "tags": [
+      "trad",
+      "beginner",
+      "alpine"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00199",
+    "sku": "CLI-PLZP4A",
+    "product_name": "Ridge Climbing Gear Carabiner Rack",
+    "category": "Climbing Gear",
+    "vendor_id": "V0010",
+    "retail_price": 641.07,
+    "weight_lb": 14.4,
+    "tags": [
+      "alpine",
+      "trad",
+      "UIAA-rated"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Fall",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00200",
+    "sku": "TRA-8UAILF",
+    "product_name": "River Trail Safety Navigation Set",
+    "category": "Trail Safety",
+    "vendor_id": "V0019",
+    "retail_price": 630.23,
+    "weight_lb": 17.08,
+    "tags": [
+      "essential",
+      "emergency",
+      "guided"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00201",
+    "sku": "TEN-6JR6Q0",
+    "product_name": "Ridge Tents Ultralight Solo",
+    "category": "Tents",
+    "vendor_id": "V0010",
+    "retail_price": 328.29,
+    "weight_lb": 3.84,
+    "tags": [
+      "car-camping",
+      "family",
+      "4-season"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00202",
+    "sku": "BAC-S60F3T",
+    "product_name": "Camp Backpacks Pro",
+    "category": "Backpacks",
+    "vendor_id": "V0007",
+    "retail_price": 77.45,
+    "weight_lb": 0.5,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00203",
+    "sku": "TRA-TGPVSG",
+    "product_name": "Canyon Trail Safety First Aid Kit",
+    "category": "Trail Safety",
+    "vendor_id": "V0001",
+    "retail_price": 147.18,
+    "weight_lb": 8.11,
+    "tags": [
+      "guided",
+      "day-hike",
+      "lightweight"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00204",
+    "sku": "LIG-NI9JIC",
+    "product_name": "Alpine Lighting Ultra",
+    "category": "Lighting",
+    "vendor_id": "V0009",
+    "retail_price": 459.04,
+    "weight_lb": 3.18,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00205",
+    "sku": "TRA-HUE6TY",
+    "product_name": "Alpine Trail Safety Personal Locator",
+    "category": "Trail Safety",
+    "vendor_id": "V0007",
+    "retail_price": 141.37,
+    "weight_lb": 9.68,
+    "tags": [
+      "essential",
+      "day-hike",
+      "guided"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00206",
+    "sku": "BAC-I460SO",
+    "product_name": "Alpine Backpacks Elite",
+    "category": "Backpacks",
+    "vendor_id": "V0012",
+    "retail_price": 417.71,
+    "weight_lb": 2.08,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00207",
+    "sku": "BAC-M00LRG",
+    "product_name": "River Backpacks Pro",
+    "category": "Backpacks",
+    "vendor_id": "V0025",
+    "retail_price": 347.97,
+    "weight_lb": 12.97,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00208",
+    "sku": "LIG-LTBGJI",
+    "product_name": "Summit Lighting Lite",
+    "category": "Lighting",
+    "vendor_id": "V0002",
+    "retail_price": 192.16,
+    "weight_lb": 7.6,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00209",
+    "sku": "BAC-RYM8XN",
+    "product_name": "Summit Backpacks Standard",
+    "category": "Backpacks",
+    "vendor_id": "V0026",
+    "retail_price": 362.25,
+    "weight_lb": 11.11,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00210",
+    "sku": "OUT-DZP4JQ",
+    "product_name": "Summit Outerwear Softshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0002",
+    "retail_price": 95.17,
+    "weight_lb": 17.6,
+    "tags": [
+      "waterproof",
+      "fall",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00211",
+    "sku": "HYD-V33DOU",
+    "product_name": "Pine Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0003",
+    "retail_price": 392.42,
+    "weight_lb": 17.97,
+    "tags": [
+      "ultralight",
+      "filter",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00212",
+    "sku": "HYD-W1K57U",
+    "product_name": "Summit Hydration 2L Reservoir",
+    "category": "Hydration",
+    "vendor_id": "V0022",
+    "retail_price": 140.61,
+    "weight_lb": 1.23,
+    "tags": [
+      "filter",
+      "BPA-free",
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00213",
+    "sku": "LIG-6QMBYK",
+    "product_name": "Camp Lighting Standard",
+    "category": "Lighting",
+    "vendor_id": "V0001",
+    "retail_price": 152.18,
+    "weight_lb": 3.76,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00214",
+    "sku": "TRA-U7S35M",
+    "product_name": "Pine Trail Safety First Aid Kit",
+    "category": "Trail Safety",
+    "vendor_id": "V0028",
+    "retail_price": 86.45,
+    "weight_lb": 8.58,
+    "tags": [
+      "backcountry",
+      "lightweight",
+      "essential"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00215",
+    "sku": "BAC-6L928B",
+    "product_name": "Alpine Backpacks Ultra",
+    "category": "Backpacks",
+    "vendor_id": "V0013",
+    "retail_price": 105.44,
+    "weight_lb": 0.69,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00216",
+    "sku": "HYD-Y2KMUJ",
+    "product_name": "Camp Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0027",
+    "retail_price": 133.34,
+    "weight_lb": 5.52,
+    "tags": [
+      "trail",
+      "filter",
+      "insulated"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00217",
+    "sku": "LIG-53VO91",
+    "product_name": "Camp Lighting Ultra",
+    "category": "Lighting",
+    "vendor_id": "V0028",
+    "retail_price": 58.31,
+    "weight_lb": 14.52,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00218",
+    "sku": "BAC-W0W72N",
+    "product_name": "River Backpacks Series 2",
+    "category": "Backpacks",
+    "vendor_id": "V0005",
+    "retail_price": 413.48,
+    "weight_lb": 15.04,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00219",
+    "sku": "TEN-EA2PB5",
+    "product_name": "Alpine Tents 2-Person Backpacking",
+    "category": "Tents",
+    "vendor_id": "V0002",
+    "retail_price": 545.58,
+    "weight_lb": 6.85,
+    "tags": [
+      "freestanding",
+      "family",
+      "4-season"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00220",
+    "sku": "CAM-68ZH16",
+    "product_name": "River Camp Kitchen 3-Piece Pot Set",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0001",
+    "retail_price": 266.01,
+    "weight_lb": 11.79,
+    "tags": [
+      "compact",
+      "ultralight",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "Spring/Summer",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00221",
+    "sku": "TEN-QMI2LG",
+    "product_name": "Alpine Tents Ultralight Solo",
+    "category": "Tents",
+    "vendor_id": "V0002",
+    "retail_price": 82.8,
+    "weight_lb": 16.31,
+    "tags": [
+      "3-season",
+      "waterproof",
+      "ultralight"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00222",
+    "sku": "LIG-CVTHNT",
+    "product_name": "Ridge Lighting Ultra",
+    "category": "Lighting",
+    "vendor_id": "V0006",
+    "retail_price": 36.14,
+    "weight_lb": 13.75,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00223",
+    "sku": "HIK-GESM91",
+    "product_name": "Summit Hiking Footwear Series 2",
+    "category": "Hiking Footwear",
+    "vendor_id": "V0025",
+    "retail_price": 310.28,
+    "weight_lb": 5.75,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00224",
+    "sku": "OUT-MMLKSL",
+    "product_name": "Camp Outerwear Waterproof Shell",
+    "category": "Outerwear",
+    "vendor_id": "V0023",
+    "retail_price": 36.75,
+    "weight_lb": 12.73,
+    "tags": [
+      "4-season",
+      "windproof",
+      "winter"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00225",
+    "sku": "OUT-GLBXZR",
+    "product_name": "Camp Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0028",
+    "retail_price": 683.22,
+    "weight_lb": 16.01,
+    "tags": [
+      "fall",
+      "4-season",
+      "layering"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00226",
+    "sku": "LIG-ZZGUXR",
+    "product_name": "Ridge Lighting Lite",
+    "category": "Lighting",
+    "vendor_id": "V0025",
+    "retail_price": 270.73,
+    "weight_lb": 3.99,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00227",
+    "sku": "CLI-76ROYT",
+    "product_name": "Alpine Climbing Gear Carabiner Rack",
+    "category": "Climbing Gear",
+    "vendor_id": "V0001",
+    "retail_price": 23.05,
+    "weight_lb": 4.81,
+    "tags": [
+      "UIAA-rated",
+      "safety-certified",
+      "trad"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00228",
+    "sku": "CLI-3O5L79",
+    "product_name": "Ridge Climbing Gear Auto-Belay System",
+    "category": "Climbing Gear",
+    "vendor_id": "V0002",
+    "retail_price": 458.55,
+    "weight_lb": 12.76,
+    "tags": [
+      "trad",
+      "beginner",
+      "sport"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00229",
+    "sku": "NAV-2M604P",
+    "product_name": "Canyon Navigation Pro",
+    "category": "Navigation",
+    "vendor_id": "V0011",
+    "retail_price": 584.2,
+    "weight_lb": 1.42,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": false
+    }
+  },
+  {
+    "product_id": "P00230",
+    "sku": "LIG-AQXWYP",
+    "product_name": "Alpine Lighting Elite",
+    "category": "Lighting",
+    "vendor_id": "V0007",
+    "retail_price": 464.16,
+    "weight_lb": 13.8,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00231",
+    "sku": "HYD-B8L3FK",
+    "product_name": "Trail Hydration Trail Filter Straw",
+    "category": "Hydration",
+    "vendor_id": "V0029",
+    "retail_price": 288.32,
+    "weight_lb": 18.04,
+    "tags": [
+      "insulated",
+      "filter",
+      "day-hike"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00232",
+    "sku": "TEN-05341B",
+    "product_name": "Camp Tents 3-Person Base Camp",
+    "category": "Tents",
+    "vendor_id": "V0001",
+    "retail_price": 599.24,
+    "weight_lb": 5.54,
+    "tags": [
+      "backpacking",
+      "waterproof",
+      "car-camping"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "4-Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00233",
+    "sku": "HYD-KWZOYE",
+    "product_name": "River Hydration 2L Reservoir",
+    "category": "Hydration",
+    "vendor_id": "V0028",
+    "retail_price": 334.8,
+    "weight_lb": 8.58,
+    "tags": [
+      "day-hike",
+      "spring-summer",
+      "BPA-free"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00234",
+    "sku": "CAM-3MHVG5",
+    "product_name": "Summit Camp Kitchen Cook System 1-Person",
+    "category": "Camp Kitchen",
+    "vendor_id": "V0018",
+    "retail_price": 321.3,
+    "weight_lb": 6.87,
+    "tags": [
+      "quick-boil",
+      "propane",
+      "backpacking"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00235",
+    "sku": "BAC-7TU5DR",
+    "product_name": "Ridge Backpacks Lite",
+    "category": "Backpacks",
+    "vendor_id": "V0010",
+    "retail_price": 123.18,
+    "weight_lb": 15.69,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00236",
+    "sku": "OUT-YQYKYC",
+    "product_name": "Canyon Outerwear Hardshell Jacket",
+    "category": "Outerwear",
+    "vendor_id": "V0018",
+    "retail_price": 545.04,
+    "weight_lb": 11.53,
+    "tags": [
+      "4-season",
+      "breathable",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "Fall/Winter",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00237",
+    "sku": "NAV-73XOM8",
+    "product_name": "Alpine Navigation Ultra",
+    "category": "Navigation",
+    "vendor_id": "V0026",
+    "retail_price": 37.64,
+    "weight_lb": 2.48,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 36,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00238",
+    "sku": "TEN-8Q57CW",
+    "product_name": "Alpine Tents Ultralight Solo",
+    "category": "Tents",
+    "vendor_id": "V0018",
+    "retail_price": 295.8,
+    "weight_lb": 12.49,
+    "tags": [
+      "4-season",
+      "freestanding",
+      "waterproof"
+    ],
+    "attributes": {
+      "warranty_months": 24,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00239",
+    "sku": "LIG-RFGGTR",
+    "product_name": "Summit Lighting Series 2",
+    "category": "Lighting",
+    "vendor_id": "V0013",
+    "retail_price": 365.95,
+    "weight_lb": 3.36,
+    "tags": [
+      "outdoor"
+    ],
+    "attributes": {
+      "warranty_months": 60,
+      "season": "All Season",
+      "online_available": true
+    }
+  },
+  {
+    "product_id": "P00240",
+    "sku": "NAV-GEGNFX",
+    "product_name": "Camp Navigation Pro",
+    "category": "Navigation",
+    "vendor_id": "V0022",
+    "retail_price": 207.93,
+    "weight_lb": 2.49,
+    "tags": [
+      "trail"
+    ],
+    "attributes": {
+      "warranty_months": 12,
+      "season": "All Season",
+      "online_available": true
+    }
+  }
+]

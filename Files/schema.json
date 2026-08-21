@@ -1,0 +1,73 @@
+{
+  "dataset": "Northwind Outdoor Supply Operations",
+  "primary_keys": {
+    "customers.csv": "customer_id",
+    "orders.csv": "order_id",
+    "order_items.csv": "order_item_id",
+    "products.csv": "product_id",
+    "inventory.csv": "inventory_id",
+    "employees.csv": "employee_id",
+    "vendors.csv": "vendor_id",
+    "support_tickets.csv": "ticket_id"
+  },
+  "relationships": [
+    {
+      "from": "orders.customer_id",
+      "to": "customers.customer_id"
+    },
+    {
+      "from": "orders.employee_id",
+      "to": "employees.employee_id"
+    },
+    {
+      "from": "order_items.order_id",
+      "to": "orders.order_id"
+    },
+    {
+      "from": "order_items.product_id",
+      "to": "products.product_id"
+    },
+    {
+      "from": "products.vendor_id",
+      "to": "vendors.vendor_id"
+    },
+    {
+      "from": "inventory.product_id",
+      "to": "products.product_id"
+    },
+    {
+      "from": "support_tickets.customer_id",
+      "to": "customers.customer_id"
+    },
+    {
+      "from": "support_tickets.order_id",
+      "to": "orders.order_id"
+    },
+    {
+      "from": "support_tickets.assigned_employee_id",
+      "to": "employees.employee_id"
+    },
+    {
+      "from": "website_analytics.customer_id",
+      "to": "customers.customer_id"
+    },
+    {
+      "from": "website_analytics.product_id",
+      "to": "products.product_id"
+    },
+    "inventory.warehouse_id -> warehouses.warehouse_id",
+    "product_catalog.product_id -> products.product_id",
+    "website_analytics.product_id -> products.product_id",
+    "audit_log.employee_id -> employees.employee_id"
+  ],
+  "recommended_tasks": [
+    "customer segmentation",
+    "sales forecasting",
+    "inventory planning",
+    "support ticket classification",
+    "order analytics",
+    "dashboard building",
+    "ETL validation",
+    "RAG over operational reports"
+  ]
+}

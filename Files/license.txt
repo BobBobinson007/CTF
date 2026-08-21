@@ -1,0 +1,3 @@
+Public Use License
+
+You may use, modify, analyze, transform, and redistribute this dataset for research, education, development, testing, and commercial projects.

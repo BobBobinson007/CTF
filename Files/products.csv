@@ -1,0 +1,241 @@
+product_id,sku,product_name,category,vendor_id,cost,retail_price,weight_lb,active
+P00001,CLI-Z49C9R,Pine Climbing Gear Pro Harness,Climbing Gear,V0012,324.25,448.19,18.08,Yes
+P00002,TEN-PFHR3C,River Tents 2-Person Backpacking,Tents,V0017,62.58,89.89,2.75,Yes
+P00003,TRA-NIRK1A,Summit Trail Safety First Aid Kit,Trail Safety,V0005,177.37,232.09,11.22,No
+P00004,TRA-W4W1QE,Canyon Trail Safety Personal Locator,Trail Safety,V0010,55.28,76.59,7.7,No
+P00005,OUT-EX3OVC,Trail Outerwear Insulated Parka,Outerwear,V0024,73.54,132.26,2.71,Yes
+P00006,CAM-KKOD49,Canyon Camp Kitchen Single-Burner Propane,Camp Kitchen,V0014,229.16,398.0,2.51,Yes
+P00007,LIG-YNIMGD,Canyon Lighting Standard,Lighting,V0029,244.06,409.55,13.76,Yes
+P00008,BAC-LZLETN,Canyon Backpacks Ultra,Backpacks,V0011,160.24,275.55,9.47,Yes
+P00009,TRA-21P3I5,Trail Trail Safety Signal Mirror & Whistle,Trail Safety,V0030,59.33,79.4,13.12,Yes
+P00010,HYD-S3H4LZ,Ridge Hydration Gravity Filter Kit,Hydration,V0020,42.97,59.15,11.19,Yes
+P00011,HIK-TAIVC0,Summit Hiking Footwear Standard,Hiking Footwear,V0004,91.77,143.74,7.01,No
+P00012,CLI-ZWPN9M,Trail Climbing Gear Pro Harness,Climbing Gear,V0028,351.65,593.99,8.69,Yes
+P00013,TEN-MLOB0W,Summit Tents Freestanding Dome,Tents,V0021,245.49,398.48,17.16,Yes
+P00014,CAM-APUN4Z,Ridge Camp Kitchen Collapsible Cup Set,Camp Kitchen,V0027,89.75,131.81,18.4,Yes
+P00015,CLI-8MSD1G,Trail Climbing Gear Pro Harness,Climbing Gear,V0027,278.22,389.15,17.81,Yes
+P00016,CAM-Z58682,Trail Camp Kitchen 3-Piece Pot Set,Camp Kitchen,V0005,273.68,419.52,14.5,Yes
+P00017,LIG-XQIHG1,Summit Lighting Standard,Lighting,V0011,245.85,422.6,15.76,No
+P00018,TRA-Q0GEEN,Ridge Trail Safety Signal Mirror & Whistle,Trail Safety,V0010,149.77,206.42,17.97,Yes
+P00019,HYD-FRN2QX,Pine Hydration Insulated Carrier,Hydration,V0021,309.76,469.92,17.57,Yes
+P00020,TEN-YUNC87,Camp Tents 2-Person Backpacking,Tents,V0029,268.34,439.84,8.76,Yes
+P00021,CLI-7SZSG5,Canyon Climbing Gear Pro Harness,Climbing Gear,V0006,286.76,441.58,6.81,Yes
+P00022,BAC-YTRWSQ,Trail Backpacks Standard,Backpacks,V0007,125.07,156.69,10.05,Yes
+P00023,CLI-7PKWTF,Trail Climbing Gear Auto-Belay System,Climbing Gear,V0014,81.92,124.02,5.76,Yes
+P00024,NAV-3C4OP5,Camp Navigation Lite,Navigation,V0029,250.67,387.57,1.34,Yes
+P00025,NAV-VQO49C,Pine Navigation Pro,Navigation,V0027,311.45,564.8,10.92,Yes
+P00026,TEN-ZQRXOG,Canyon Tents All-Weather 3-Season,Tents,V0010,396.04,650.23,7.07,Yes
+P00027,BAC-BHQWRK,Canyon Backpacks Series 2,Backpacks,V0019,316.86,569.62,18.07,Yes
+P00028,TRA-9X7UN6,Pine Trail Safety Emergency Bivvy,Trail Safety,V0022,125.61,182.42,3.39,No
+P00029,BAC-945WZO,River Backpacks Ultra,Backpacks,V0011,184.09,274.26,13.35,Yes
+P00030,HYD-GB1NPW,Summit Hydration Filtration Bottle 1L,Hydration,V0021,374.94,508.26,2.19,Yes
+P00031,CLI-AED4MY,River Climbing Gear Auto-Belay System,Climbing Gear,V0015,352.93,587.52,9.72,Yes
+P00032,OUT-SDCTX4,River Outerwear Fleece Mid-Layer,Outerwear,V0009,104.42,158.94,1.69,Yes
+P00033,HIK-4S3KJA,Summit Hiking Footwear Ultra,Hiking Footwear,V0029,182.46,333.15,13.02,No
+P00034,CAM-T66819,Canyon Camp Kitchen 3-Piece Pot Set,Camp Kitchen,V0026,182.55,303.99,11.57,No
+P00035,HIK-O84EB8,Trail Hiking Footwear Pro,Hiking Footwear,V0015,294.53,409.99,2.49,Yes
+P00036,NAV-1947JL,Camp Navigation Standard,Navigation,V0029,40.26,50.67,4.14,Yes
+P00037,OUT-CWIO6O,Trail Outerwear Wind Resistance Vest,Outerwear,V0007,118.61,187.35,13.59,Yes
+P00038,HYD-4OUC5C,River Hydration Insulated Carrier,Hydration,V0026,267.53,434.73,5.78,Yes
+P00039,TRA-6PFUWK,Alpine Trail Safety Navigation Set,Trail Safety,V0020,378.75,688.69,5.69,Yes
+P00040,BAC-HN2Q0B,Camp Backpacks Lite,Backpacks,V0020,322.27,563.92,7.88,No
+P00041,OUT-GYBO0M,Trail Outerwear Waterproof Shell,Outerwear,V0029,114.63,176.8,5.12,Yes
+P00042,TEN-B2VSPB,Pine Tents 4-Person Family,Tents,V0018,271.83,353.74,3.51,No
+P00043,TEN-A3TFC7,River Tents 2-Person Backpacking,Tents,V0018,29.24,46.94,9.43,Yes
+P00044,TEN-LWXON6,Trail Tents Freestanding Dome,Tents,V0028,280.71,364.31,9.59,Yes
+P00045,CAM-9RX14E,Ridge Camp Kitchen Collapsible Cup Set,Camp Kitchen,V0012,408.73,754.87,16.77,Yes
+P00046,CAM-1XWHMM,Canyon Camp Kitchen Cook System 1-Person,Camp Kitchen,V0004,212.66,338.54,17.69,Yes
+P00047,TEN-D4PJS3,Summit Tents All-Weather 3-Season,Tents,V0004,360.51,520.8,11.12,Yes
+P00048,LIG-FO9VLI,Trail Lighting Elite,Lighting,V0003,111.37,140.77,5.55,Yes
+P00049,TEN-RYWUIC,Trail Tents 4-Person Family,Tents,V0029,181.79,232.37,11.94,Yes
+P00050,CLI-G4OBPX,Ridge Climbing Gear Sport Quickdraw Set,Climbing Gear,V0023,331.26,592.1,3.99,Yes
+P00051,TEN-EFRRYQ,Ridge Tents 4-Person Family,Tents,V0012,257.23,396.74,0.86,Yes
+P00052,LIG-GAVWDM,Summit Lighting Ultra,Lighting,V0028,27.69,44.67,6.99,Yes
+P00053,NAV-SXZ1ID,Trail Navigation Elite,Navigation,V0017,219.06,366.73,11.6,Yes
+P00054,OUT-Z26A5K,Camp Outerwear Hardshell Jacket,Outerwear,V0008,280.96,432.47,6.88,Yes
+P00055,LIG-SNPNJ9,Canyon Lighting Standard,Lighting,V0024,330.29,496.42,17.72,Yes
+P00056,TRA-4ZVVUK,Camp Trail Safety Navigation Set,Trail Safety,V0025,176.96,236.38,3.65,Yes
+P00057,CAM-BNU83T,Pine Camp Kitchen Collapsible Cup Set,Camp Kitchen,V0027,66.45,94.36,8.69,Yes
+P00058,BAC-4NIK63,Alpine Backpacks Ultra,Backpacks,V0004,179.83,311.57,11.54,No
+P00059,NAV-E2LR0L,Alpine Navigation Lite,Navigation,V0001,339.3,467.47,15.9,Yes
+P00060,CLI-9U96M6,Pine Climbing Gear Pro Harness,Climbing Gear,V0017,331.33,552.88,14.34,Yes
+P00061,LIG-YBQQNU,Pine Lighting Series 2,Lighting,V0022,343.0,422.21,13.48,No
+P00062,HYD-8SY16P,Trail Hydration 3L Bladder System,Hydration,V0025,159.09,226.93,0.6,No
+P00063,LIG-SOAZ32,Ridge Lighting Lite,Lighting,V0029,152.88,263.0,10.31,Yes
+P00064,NAV-6C02OR,River Navigation Ultra,Navigation,V0011,33.08,48.59,4.31,No
+P00065,HIK-CTJB4Z,Trail Hiking Footwear Lite,Hiking Footwear,V0027,157.73,270.78,1.24,Yes
+P00066,BAC-KT4PD4,Trail Backpacks Series 2,Backpacks,V0019,350.98,567.32,5.18,Yes
+P00067,CAM-TFBWAE,River Camp Kitchen Spork & Tool Kit,Camp Kitchen,V0013,98.87,142.7,4.23,No
+P00068,TEN-JJ91A8,Camp Tents Freestanding Dome,Tents,V0013,178.58,228.52,5.21,No
+P00069,OUT-IQRYZL,Alpine Outerwear Wind Resistance Vest,Outerwear,V0006,169.64,275.78,2.83,No
+P00070,HYD-NWKG8J,River Hydration Trail Filter Straw,Hydration,V0012,417.03,540.32,18.45,Yes
+P00071,HYD-QJ6YCD,Camp Hydration Insulated Carrier,Hydration,V0004,351.41,499.85,12.79,No
+P00072,NAV-NZD2SI,Trail Navigation Lite,Navigation,V0003,67.28,92.45,3.06,Yes
+P00073,OUT-MA19Z3,Pine Outerwear Waterproof Shell,Outerwear,V0030,360.95,647.91,6.23,Yes
+P00074,TRA-7RZGDM,Pine Trail Safety Navigation Set,Trail Safety,V0030,130.79,220.55,12.81,Yes
+P00075,HIK-5HD2F9,Alpine Hiking Footwear Lite,Hiking Footwear,V0019,384.94,549.38,10.05,Yes
+P00076,HYD-0EW10I,Camp Hydration Trail Filter Straw,Hydration,V0008,299.74,487.81,17.71,No
+P00077,HIK-HITWEN,Trail Hiking Footwear Elite,Hiking Footwear,V0003,290.55,420.44,17.51,Yes
+P00078,CAM-GB4R77,River Camp Kitchen Cook System 1-Person,Camp Kitchen,V0019,140.98,254.13,12.59,No
+P00079,HYD-13MJRS,Camp Hydration Insulated Carrier,Hydration,V0023,182.67,291.37,5.98,No
+P00080,HIK-EPXXCG,Pine Hiking Footwear Series 2,Hiking Footwear,V0019,192.02,353.31,16.05,Yes
+P00081,HYD-Z69JI6,Pine Hydration Filtration Bottle 1L,Hydration,V0029,220.35,299.2,6.62,Yes
+P00082,CLI-34UQN2,Trail Climbing Gear Carabiner Rack,Climbing Gear,V0002,300.19,489.41,1.14,Yes
+P00083,OUT-PYTGAS,Canyon Outerwear Waterproof Shell,Outerwear,V0002,71.65,102.7,12.49,No
+P00084,LIG-3L7C6C,Ridge Lighting Pro,Lighting,V0021,95.81,126.05,0.68,Yes
+P00085,OUT-WIB9XW,Summit Outerwear Waterproof Shell,Outerwear,V0003,129.72,220.54,5.46,No
+P00086,NAV-RBOS9O,Canyon Navigation Lite,Navigation,V0019,45.49,62.83,4.98,Yes
+P00087,HIK-ZY3ZR5,Pine Hiking Footwear Ultra,Hiking Footwear,V0002,181.76,295.38,9.26,No
+P00088,TRA-UH91U6,Trail Trail Safety Navigation Set,Trail Safety,V0016,184.24,318.05,17.7,Yes
+P00089,HYD-LTB0F5,Summit Hydration 2L Reservoir,Hydration,V0024,208.19,322.62,3.85,Yes
+P00090,HYD-DVUVMW,Canyon Hydration Gravity Filter Kit,Hydration,V0022,413.89,659.17,10.61,Yes
+P00091,CLI-QL95F7,Ridge Climbing Gear Pro Harness,Climbing Gear,V0028,41.34,58.96,11.94,No
+P00092,TEN-G9E496,Alpine Tents 3-Person Base Camp,Tents,V0005,195.64,326.92,5.78,No
+P00093,NAV-X8XIJC,Trail Navigation Standard,Navigation,V0008,141.29,211.16,14.93,No
+P00094,NAV-XNCCZM,Camp Navigation Elite,Navigation,V0026,404.49,513.66,14.49,Yes
+P00095,HYD-LT3S7G,Trail Hydration 3L Bladder System,Hydration,V0017,291.45,432.18,14.59,Yes
+P00096,BAC-CHH8Q5,Alpine Backpacks Elite,Backpacks,V0027,228.28,386.0,14.93,Yes
+P00097,BAC-LV5SAC,Trail Backpacks Ultra,Backpacks,V0013,204.42,344.74,4.49,No
+P00098,HYD-ADP2H9,Canyon Hydration Trail Filter Straw,Hydration,V0022,47.89,78.31,17.31,Yes
+P00099,OUT-DNY3M7,Camp Outerwear Fleece Mid-Layer,Outerwear,V0022,313.22,545.66,10.01,Yes
+P00100,HYD-KNDI1C,Summit Hydration 3L Bladder System,Hydration,V0028,266.55,436.62,12.07,Yes
+P00101,TRA-G5UPPE,Canyon Trail Safety Personal Locator,Trail Safety,V0008,145.06,210.51,6.72,Yes
+P00102,LIG-SRASK5,Camp Lighting Lite,Lighting,V0018,312.49,566.9,12.2,Yes
+P00103,HIK-VYK0D0,Alpine Hiking Footwear Series 2,Hiking Footwear,V0028,148.81,244.14,14.37,Yes
+P00104,OUT-XELWZV,Pine Outerwear Wind Resistance Vest,Outerwear,V0013,177.98,305.95,10.21,Yes
+P00105,TRA-LDQH8M,River Trail Safety Emergency Bivvy,Trail Safety,V0002,191.85,295.01,4.77,Yes
+P00106,TEN-94STYG,Trail Tents 4-Person Family,Tents,V0022,268.27,487.11,4.28,Yes
+P00107,NAV-JTC0MC,Alpine Navigation Lite,Navigation,V0011,64.17,84.89,11.0,Yes
+P00108,OUT-NMO6KZ,Ridge Outerwear Hardshell Jacket,Outerwear,V0024,325.7,415.82,10.74,Yes
+P00109,CAM-OR6D33,Ridge Camp Kitchen Compact Stove,Camp Kitchen,V0017,175.36,309.48,17.64,Yes
+P00110,OUT-6WM8FG,Alpine Outerwear Hardshell Jacket,Outerwear,V0023,224.16,347.56,7.08,Yes
+P00111,LIG-HI9CPI,Summit Lighting Lite,Lighting,V0018,55.07,100.81,17.95,Yes
+P00112,HYD-ELP149,Ridge Hydration Trail Filter Straw,Hydration,V0022,60.72,104.66,11.35,Yes
+P00113,TRA-K62Z58,Alpine Trail Safety Multi-Tool Safety,Trail Safety,V0029,362.24,603.62,0.38,Yes
+P00114,LIG-N8AANE,Summit Lighting Pro,Lighting,V0012,339.99,572.11,12.97,Yes
+P00115,CAM-OVRBA2,Ridge Camp Kitchen Cook System 1-Person,Camp Kitchen,V0026,21.46,30.25,14.49,Yes
+P00116,TEN-QV9XP6,Pine Tents 2-Person Backpacking,Tents,V0004,50.63,67.53,0.75,Yes
+P00117,LIG-FQOJYI,Trail Lighting Elite,Lighting,V0026,38.0,60.31,10.73,Yes
+P00118,CAM-D2JYF1,Ridge Camp Kitchen Compact Stove,Camp Kitchen,V0015,347.78,431.83,5.36,Yes
+P00119,TEN-SVB293,Summit Tents 2-Person Backpacking,Tents,V0026,193.42,352.53,13.56,No
+P00120,OUT-68OR2D,Canyon Outerwear Waterproof Shell,Outerwear,V0022,44.33,64.28,7.98,Yes
+P00121,LIG-GCGHXJ,Summit Lighting Elite,Lighting,V0007,88.07,126.69,0.4,No
+P00122,OUT-6Y9DSX,River Outerwear Fleece Mid-Layer,Outerwear,V0029,308.34,566.01,6.96,Yes
+P00123,BAC-DJPF4K,Pine Backpacks Pro,Backpacks,V0020,75.9,127.18,6.63,Yes
+P00124,HYD-ATVYXP,River Hydration Filtration Bottle 1L,Hydration,V0005,252.19,384.42,5.41,No
+P00125,CLI-7EGU70,Trail Climbing Gear Sport Quickdraw Set,Climbing Gear,V0018,298.02,479.1,14.88,Yes
+P00126,NAV-ZQEXLO,Pine Navigation Pro,Navigation,V0018,104.02,180.97,1.01,Yes
+P00127,LIG-HLLU9D,River Lighting Pro,Lighting,V0006,341.47,543.7,9.19,Yes
+P00128,TEN-OLLWJP,Ridge Tents 2-Person Backpacking,Tents,V0004,121.35,222.47,13.77,Yes
+P00129,HYD-IOK4EX,Alpine Hydration Trail Filter Straw,Hydration,V0021,400.46,603.29,10.53,Yes
+P00130,BAC-RBUC4Z,Pine Backpacks Standard,Backpacks,V0006,56.34,91.24,18.47,Yes
+P00131,TEN-M1IGBZ,Summit Tents 3-Person Base Camp,Tents,V0013,352.18,558.94,11.32,Yes
+P00132,TEN-1JA5HS,Ridge Tents 3-Person Base Camp,Tents,V0030,133.83,236.23,11.81,Yes
+P00133,OUT-8PNPM0,Camp Outerwear Insulated Parka,Outerwear,V0013,356.02,507.95,6.84,No
+P00134,HYD-ZW0AT2,Alpine Hydration 2L Reservoir,Hydration,V0026,120.09,154.54,12.38,Yes
+P00135,NAV-C2BU2N,Camp Navigation Lite,Navigation,V0001,141.23,217.54,15.64,Yes
+P00136,CLI-QQCQKY,Summit Climbing Gear Cam Set 4-pc,Climbing Gear,V0019,14.22,24.95,15.77,Yes
+P00137,NAV-0LDW18,Pine Navigation Pro,Navigation,V0022,286.87,491.87,5.57,Yes
+P00138,CAM-Y88JQH,Alpine Camp Kitchen Compact Stove,Camp Kitchen,V0024,172.94,291.59,15.9,Yes
+P00139,NAV-YZTWGM,Ridge Navigation Pro,Navigation,V0016,201.44,365.53,14.85,Yes
+P00140,HYD-9STKMD,Canyon Hydration Filtration Bottle 1L,Hydration,V0011,202.34,259.76,7.06,Yes
+P00141,TEN-J8TWNW,Summit Tents 2-Person Backpacking,Tents,V0024,51.4,90.02,15.41,Yes
+P00142,OUT-JAP7U2,Canyon Outerwear Hardshell Jacket,Outerwear,V0011,309.91,398.88,10.39,Yes
+P00143,LIG-1TK9RR,Summit Lighting Series 2,Lighting,V0024,140.82,222.67,1.96,Yes
+P00144,BAC-EZ6YQ4,Trail Backpacks Ultra,Backpacks,V0019,295.58,392.62,13.25,Yes
+P00145,HYD-B9I3H4,Canyon Hydration Trail Filter Straw,Hydration,V0007,179.03,313.16,10.62,Yes
+P00146,HIK-GNY9IM,River Hiking Footwear Lite,Hiking Footwear,V0020,162.2,274.56,3.18,Yes
+P00147,NAV-7QCRAL,Trail Navigation Elite,Navigation,V0010,121.41,153.52,12.3,Yes
+P00148,CAM-KLO9ZQ,Alpine Camp Kitchen Collapsible Cup Set,Camp Kitchen,V0019,326.98,585.16,1.68,Yes
+P00149,TRA-JIP46Y,Pine Trail Safety Navigation Set,Trail Safety,V0012,366.21,579.48,2.34,Yes
+P00150,NAV-G225IY,Alpine Navigation Elite,Navigation,V0010,321.25,587.56,4.71,Yes
+P00151,TRA-UBIGZZ,Summit Trail Safety First Aid Kit,Trail Safety,V0015,271.3,497.93,5.3,Yes
+P00152,LIG-ASUIQN,Camp Lighting Standard,Lighting,V0029,153.56,258.82,18.36,Yes
+P00153,TEN-1ZGCGO,Ridge Tents Ultralight Solo,Tents,V0026,119.48,220.94,12.34,Yes
+P00154,LIG-KTFH3S,Camp Lighting Standard,Lighting,V0020,377.02,670.02,1.98,Yes
+P00155,LIG-KIFTAO,Ridge Lighting Standard,Lighting,V0020,351.38,589.47,14.61,No
+P00156,BAC-XECC72,River Backpacks Ultra,Backpacks,V0024,375.93,652.36,8.45,Yes
+P00157,CLI-3R06RX,Alpine Climbing Gear Cam Set 4-pc,Climbing Gear,V0026,414.37,511.44,15.47,Yes
+P00158,HYD-GUOC6I,Ridge Hydration Insulated Carrier,Hydration,V0006,93.82,157.69,17.15,No
+P00159,OUT-Q08M0K,Alpine Outerwear Insulated Parka,Outerwear,V0003,233.04,310.78,16.89,No
+P00160,CAM-V0HBMI,Alpine Camp Kitchen Compact Stove,Camp Kitchen,V0030,333.55,455.76,1.05,Yes
+P00161,OUT-QP2YPG,Trail Outerwear Softshell Jacket,Outerwear,V0005,220.16,310.62,2.05,No
+P00162,TEN-PV7RTK,Alpine Tents All-Weather 3-Season,Tents,V0016,349.55,436.66,4.1,No
+P00163,CLI-NIF7QB,River Climbing Gear Pro Harness,Climbing Gear,V0025,221.02,275.84,11.23,Yes
+P00164,NAV-UGIX8I,Summit Navigation Standard,Navigation,V0012,61.04,108.9,16.08,Yes
+P00165,HIK-SILQPQ,River Hiking Footwear Ultra,Hiking Footwear,V0010,174.8,264.33,14.26,No
+P00166,HIK-3FWK9O,River Hiking Footwear Series 2,Hiking Footwear,V0025,88.73,152.36,7.53,Yes
+P00167,LIG-2VGLWG,Ridge Lighting Ultra,Lighting,V0025,103.13,136.77,15.58,Yes
+P00168,TEN-XQRA35,Summit Tents All-Weather 3-Season,Tents,V0027,60.96,76.25,6.63,Yes
+P00169,TRA-7U3RYI,Canyon Trail Safety Emergency Bivvy,Trail Safety,V0005,255.55,409.64,12.23,Yes
+P00170,TRA-DUN6CQ,Camp Trail Safety Navigation Set,Trail Safety,V0024,302.15,454.68,11.65,Yes
+P00171,TRA-G8GT1J,Trail Trail Safety Navigation Set,Trail Safety,V0014,75.02,93.75,3.22,Yes
+P00172,HYD-9JEXFA,Pine Hydration Insulated Carrier,Hydration,V0007,259.99,359.05,3.85,No
+P00173,CLI-BN7S0U,River Climbing Gear Pro Harness,Climbing Gear,V0021,389.43,534.3,6.48,Yes
+P00174,LIG-KZQ86T,Summit Lighting Series 2,Lighting,V0024,239.66,363.5,10.02,Yes
+P00175,CLI-G51ZJ0,Pine Climbing Gear Sport Quickdraw Set,Climbing Gear,V0021,202.46,327.8,1.63,Yes
+P00176,OUT-F4HQQ3,Pine Outerwear Softshell Jacket,Outerwear,V0011,369.7,662.84,17.42,Yes
+P00177,OUT-JP518P,River Outerwear Waterproof Shell,Outerwear,V0015,242.02,353.87,1.64,Yes
+P00178,TRA-S1VGTL,Ridge Trail Safety First Aid Kit,Trail Safety,V0005,358.56,540.49,2.03,Yes
+P00179,TEN-RFAL4L,Camp Tents Freestanding Dome,Tents,V0004,332.52,562.25,10.08,Yes
+P00180,HYD-KOIR9N,Pine Hydration Insulated Carrier,Hydration,V0029,343.61,580.5,13.67,Yes
+P00181,LIG-YA46SB,Canyon Lighting Standard,Lighting,V0004,282.38,495.62,12.19,Yes
+P00182,TRA-DL6CTW,Alpine Trail Safety Personal Locator,Trail Safety,V0021,208.12,268.87,16.77,No
+P00183,HYD-GIYEF2,Ridge Hydration Insulated Carrier,Hydration,V0013,199.53,316.76,4.46,Yes
+P00184,NAV-4FTH3F,Alpine Navigation Series 2,Navigation,V0007,237.51,308.0,12.59,Yes
+P00185,NAV-WS0OSA,Canyon Navigation Series 2,Navigation,V0016,398.26,553.09,9.52,Yes
+P00186,HIK-M9G395,Ridge Hiking Footwear Ultra,Hiking Footwear,V0025,151.02,258.16,13.76,No
+P00187,NAV-H3BNG2,Camp Navigation Ultra,Navigation,V0019,294.59,419.01,14.28,Yes
+P00188,BAC-DBG65J,Summit Backpacks Standard,Backpacks,V0029,99.5,159.06,4.75,Yes
+P00189,TRA-NA5MB3,Summit Trail Safety First Aid Kit,Trail Safety,V0011,307.13,475.06,1.37,No
+P00190,OUT-HY9F8I,Pine Outerwear Softshell Jacket,Outerwear,V0013,194.76,243.09,7.02,Yes
+P00191,CAM-7A09ZB,Canyon Camp Kitchen 3-Piece Pot Set,Camp Kitchen,V0003,71.79,95.23,4.34,Yes
+P00192,HYD-09643A,Pine Hydration Insulated Carrier,Hydration,V0025,289.23,451.44,4.07,Yes
+P00193,OUT-B34NUU,Canyon Outerwear Hardshell Jacket,Outerwear,V0021,247.93,347.75,1.94,Yes
+P00194,TEN-9RV0HX,River Tents All-Weather 3-Season,Tents,V0004,144.3,230.27,6.25,Yes
+P00195,TRA-08T5PN,Camp Trail Safety Navigation Set,Trail Safety,V0012,241.06,341.87,5.32,Yes
+P00196,LIG-KCWB6L,Canyon Lighting Series 2,Lighting,V0017,84.8,128.28,11.41,Yes
+P00197,TEN-CF1LKM,Ridge Tents 2-Person Backpacking,Tents,V0009,247.78,422.25,15.83,Yes
+P00198,CLI-Y2I9EQ,Alpine Climbing Gear Cam Set 4-pc,Climbing Gear,V0002,100.25,149.31,7.39,Yes
+P00199,CLI-PLZP4A,Ridge Climbing Gear Carabiner Rack,Climbing Gear,V0010,386.91,641.07,14.4,No
+P00200,TRA-8UAILF,River Trail Safety Navigation Set,Trail Safety,V0019,398.04,630.23,17.08,Yes
+P00201,TEN-6JR6Q0,Ridge Tents Ultralight Solo,Tents,V0010,205.91,328.29,3.84,Yes
+P00202,BAC-S60F3T,Camp Backpacks Pro,Backpacks,V0007,57.8,77.45,0.5,Yes
+P00203,TRA-TGPVSG,Canyon Trail Safety First Aid Kit,Trail Safety,V0001,106.15,147.18,8.11,Yes
+P00204,LIG-NI9JIC,Alpine Lighting Ultra,Lighting,V0009,299.11,459.04,3.18,Yes
+P00205,TRA-HUE6TY,Alpine Trail Safety Personal Locator,Trail Safety,V0007,106.45,141.37,9.68,No
+P00206,BAC-I460SO,Alpine Backpacks Elite,Backpacks,V0012,324.78,417.71,2.08,Yes
+P00207,BAC-M00LRG,River Backpacks Pro,Backpacks,V0025,267.54,347.97,12.97,Yes
+P00208,LIG-LTBGJI,Summit Lighting Lite,Lighting,V0002,157.09,192.16,7.6,No
+P00209,BAC-RYM8XN,Summit Backpacks Standard,Backpacks,V0026,207.26,362.25,11.11,Yes
+P00210,OUT-DZP4JQ,Summit Outerwear Softshell Jacket,Outerwear,V0002,76.6,95.17,17.6,Yes
+P00211,HYD-V33DOU,Pine Hydration Trail Filter Straw,Hydration,V0003,300.22,392.42,17.97,Yes
+P00212,HYD-W1K57U,Summit Hydration 2L Reservoir,Hydration,V0022,95.22,140.61,1.23,Yes
+P00213,LIG-6QMBYK,Camp Lighting Standard,Lighting,V0001,87.65,152.18,3.76,Yes
+P00214,TRA-U7S35M,Pine Trail Safety First Aid Kit,Trail Safety,V0028,57.27,86.45,8.58,No
+P00215,BAC-6L928B,Alpine Backpacks Ultra,Backpacks,V0013,73.75,105.44,0.69,Yes
+P00216,HYD-Y2KMUJ,Camp Hydration Trail Filter Straw,Hydration,V0027,94.55,133.34,5.52,Yes
+P00217,LIG-53VO91,Camp Lighting Ultra,Lighting,V0028,39.08,58.31,14.52,No
+P00218,BAC-W0W72N,River Backpacks Series 2,Backpacks,V0005,322.34,413.48,15.04,No
+P00219,TEN-EA2PB5,Alpine Tents 2-Person Backpacking,Tents,V0002,393.75,545.58,6.85,Yes
+P00220,CAM-68ZH16,River Camp Kitchen 3-Piece Pot Set,Camp Kitchen,V0001,186.99,266.01,11.79,Yes
+P00221,TEN-QMI2LG,Alpine Tents Ultralight Solo,Tents,V0002,54.77,82.8,16.31,Yes
+P00222,LIG-CVTHNT,Ridge Lighting Ultra,Lighting,V0006,25.83,36.14,13.75,No
+P00223,HIK-GESM91,Summit Hiking Footwear Series 2,Hiking Footwear,V0025,173.89,310.28,5.75,Yes
+P00224,OUT-MMLKSL,Camp Outerwear Waterproof Shell,Outerwear,V0023,20.63,36.75,12.73,Yes
+P00225,OUT-GLBXZR,Camp Outerwear Hardshell Jacket,Outerwear,V0028,378.82,683.22,16.01,Yes
+P00226,LIG-ZZGUXR,Ridge Lighting Lite,Lighting,V0025,162.99,270.73,3.99,No
+P00227,CLI-76ROYT,Alpine Climbing Gear Carabiner Rack,Climbing Gear,V0001,13.18,23.05,4.81,Yes
+P00228,CLI-3O5L79,Ridge Climbing Gear Auto-Belay System,Climbing Gear,V0002,354.16,458.55,12.76,Yes
+P00229,NAV-2M604P,Canyon Navigation Pro,Navigation,V0011,371.72,584.2,1.42,No
+P00230,LIG-AQXWYP,Alpine Lighting Elite,Lighting,V0007,252.65,464.16,13.8,Yes
+P00231,HYD-B8L3FK,Trail Hydration Trail Filter Straw,Hydration,V0029,157.73,288.32,18.04,Yes
+P00232,TEN-05341B,Camp Tents 3-Person Base Camp,Tents,V0001,386.25,599.24,5.54,Yes
+P00233,HYD-KWZOYE,River Hydration 2L Reservoir,Hydration,V0028,229.45,334.8,8.58,Yes
+P00234,CAM-3MHVG5,Summit Camp Kitchen Cook System 1-Person,Camp Kitchen,V0018,259.67,321.3,6.87,Yes
+P00235,BAC-7TU5DR,Ridge Backpacks Lite,Backpacks,V0010,87.18,123.18,15.69,Yes
+P00236,OUT-YQYKYC,Canyon Outerwear Hardshell Jacket,Outerwear,V0018,412.89,545.04,11.53,Yes
+P00237,NAV-73XOM8,Alpine Navigation Ultra,Navigation,V0026,25.68,37.64,2.48,Yes
+P00238,TEN-8Q57CW,Alpine Tents Ultralight Solo,Tents,V0018,194.84,295.8,12.49,Yes
+P00239,LIG-RFGGTR,Summit Lighting Series 2,Lighting,V0013,270.47,365.95,3.36,Yes
+P00240,NAV-GEGNFX,Camp Navigation Pro,Navigation,V0022,170.35,207.93,2.49,Yes

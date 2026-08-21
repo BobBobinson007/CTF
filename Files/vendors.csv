@@ -1,0 +1,31 @@
+vendor_id,vendor_name,category_focus,city,state,lead_time_days,payment_terms,active
+V0001,Highpoint Products,Trail Safety,Knoxville,TN,6,Net 15,Yes
+V0002,Foxwood Provisions,Trail Safety,Hickory,NC,9,Net 45,Yes
+V0003,Cascade Outfitters,Hiking Footwear,Columbia,SC,25,Net 15,Yes
+V0004,Timberline Trading,Tents,Hickory,NC,26,Net 15,Yes
+V0005,Riverview Gear,Hiking Footwear,Columbia,SC,25,Net 30,Yes
+V0006,Pinecrest Supply Co.,Outerwear,Greenville,SC,27,Net 45,Yes
+V0007,Lakeside Gear,Tents,Columbia,SC,28,Net 45,Yes
+V0008,Coldstream Provisions,Hiking Footwear,Roanoke,VA,27,Net 15,Yes
+V0009,Riverview Provisions,Backpacks,Greenville,SC,18,Net 45,Yes
+V0010,Timberline Gear Works,Tents,Knoxville,TN,11,Net 15,Yes
+V0011,Timberline Source,Tents,Johnson City,TN,12,Net 15,Yes
+V0012,Stonebridge Manufacturing,Navigation,Columbia,SC,6,Net 30,Yes
+V0013,Ridgeline Manufacturing,Tents,Knoxville,TN,4,Net 45,Yes
+V0014,Riverview Gear Works,Hiking Footwear,Asheville,NC,25,Net 30,Yes
+V0015,Ironwood Supply Co.,Navigation,Asheville,NC,8,Net 30,Yes
+V0016,Coldstream Supply Co.,Lighting,Roanoke,VA,3,Net 45,Yes
+V0017,Lakeside Supply Co.,Hiking Footwear,Knoxville,TN,4,Net 30,Yes
+V0018,Blue Ridge Manufacturing,Camp Kitchen,Charlotte,NC,10,Net 30,Yes
+V0019,Cascade Equipment,Lighting,Charlotte,NC,22,Net 45,Yes
+V0020,Evergreen Distribution,Climbing Gear,Charleston,SC,9,Net 45,Yes
+V0021,Cascade Wholesale,Climbing Gear,Charlotte,NC,24,Net 15,Yes
+V0022,Maple Ridge Trading,Hydration,Johnson City,TN,8,Net 30,Yes
+V0023,Clearwater Outfitters,Outerwear,Hickory,NC,5,Net 15,Yes
+V0024,Blue Ridge Provisions,Trail Safety,Johnson City,TN,14,Net 15,Yes
+V0025,Pinecrest Source,Camp Kitchen,Johnson City,TN,24,Net 15,Yes
+V0026,Valley Gear,Outerwear,Roanoke,VA,20,Net 45,Yes
+V0027,Highpoint Provisions,Trail Safety,Asheville,NC,15,Net 45,Yes
+V0028,Valley Provisions,Outerwear,Roanoke,VA,3,Net 30,Yes
+V0029,Maple Ridge Equipment,Outerwear,Hickory,NC,14,Net 45,Yes
+V0030,Crosswind Gear Works,Climbing Gear,Asheville,NC,19,Net 15,Yes
