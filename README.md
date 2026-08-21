@@ -59,7 +59,8 @@ aussieht.
 
 ## Flag-Format
 
-`flag{...}`
+`flag{...}` · [Flag prüfen](https://bobbobinson007.github.io/ctf/check.html)
+
 
 ## Regeln
 
