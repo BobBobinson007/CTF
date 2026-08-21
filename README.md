@@ -1,4 +1,4 @@
-# CTF Room: "Was S.B. wusste"
+# CTF Room: "Was M.L. wusste"
 
 ---
 
