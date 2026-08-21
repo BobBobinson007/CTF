@@ -31,8 +31,13 @@ Berichte. Offiziell als Backup deklariert, tauchte der Export wenig später
 anonym in einem internen Postfach der IT-Sicherheitsabteilung wieder auf –
 zusammen mit einer kurzen Notiz:
 
-> *"Nicht alles hier ist wichtig. Aber ein Dokument sagt mehr als die anderen.
-> Wer den Weg kennt, findet auch das Zeichen dazu. – M.L."*
+<p align="center">
+  <br>
+  <br>
+  <img src="Assets/2.png" alt="Nicht alles hier ist wichtig. Aber ein Dokument sagt mehr als die anderen. Wer den Weg kennt, findet auch das Zeichen dazu. – M.L." width="400">
+  <br>
+  <br>
+</p>
 
 Seitdem liegt der komplette Datenexport unangetastet auf einem
 Analyse-Rechner der Security-Abteilung – inklusive der Original-Notiz.
