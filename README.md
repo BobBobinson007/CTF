@@ -1,4 +1,4 @@
-# CTF Room: "Der Wegweiser von Northwind"
+# CTF Room: "Was S.B. wusste"
 
 ---
 
